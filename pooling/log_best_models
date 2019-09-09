@@ -1,0 +1,2743 @@
+Namespace(audio='proba_audio_w_pretrain_w_triplet.txt', chat_tmp_trn='chat_train_triplet_temporal.csv', chat_tmp_val='chat_val_triplet_temporal.csv', chat_txt_trn='chat_train_triplet.csv', chat_txt_val='chat_val_triplet.csv', datapath='raw_predictions/best_models', img_trn='train_triplet_wo_pretrain_spatial_train.json', img_val='train_triplet_wo_pretrain_spatial_valid.json', labelpath='../label_data/', labeltrain='train_small.csv', labelvalid='valid_small.csv', mov_trn='train_triplet_wo_pretrain_motion_train.json', mov_val='train_triplet_wo_pretrain_motion_valid.json', output='data_best_models.json')
+Reading  ../label_data/train_small.csv
+0it [00:00, ?it/s]554it [00:00, 339465.95it/s]
+Reading  ../label_data/valid_small.csv
+0it [00:00, ?it/s]194it [00:00, 150017.51it/s]
+Reading  raw_predictions/best_models/proba_audio_w_pretrain_w_triplet.txt
+0it [00:00, ?it/s]9295it [00:00, 118454.72it/s]
+Reading  raw_predictions/best_models/chat_train_triplet.csv
+0it [00:00, ?it/s]xelas_ train
+c0nfusiontv train
+chawkgaming train
+daemgg train
+mickslammit train
+lolatyourswag train
+bunnyisbad train
+verzar6 train
+lexcs train
+kelxdd train
+kermeytheefrog train
+smithninjas train
+strik3r_13 train
+d0minictv train
+makzwell train
+sizarroowo train
+ttvnyko train
+xperplexity train
+zan3rg train
+jewkcs train
+tylercheetah train
+blairski7 train
+lenoncsgo train
+zanderd train
+chewiessthong train
+realxsg train
+xxslayerrulesxx train
+hazardouslive train
+nicxcs train
+aleksandarhz train
+kaboosecs train
+persian_tv train
+las_cs train
+namhel_cs train
+nitsua_tv train
+itaroo_bot train
+hated2k train
+adept_dave train
+ro_cs train
+therealflixxy train
+yayooo_tv train
+shostak train
+mockcs train
+doodiehead train
+lilgrizz818 train
+cuz1h train
+chill3k train
+gunwoundz train
+sharkie_tv train
+voltz420 train
+piktorial train
+fenomm train
+motm train
+cryptt train
+ferknights train
+samster_cs train
+benzjamin train
+zan0theman0 train
+immenson train
+noxio train
+cilantro_live train
+beastbox train
+wheatie97 train
+scem train
+retroxox train
+caspy train
+deadhuntar train
+not_luckyduck38 train
+jsetv train
+hellzaoocsgo train
+grxpecs train
+1mannym train
+physifyee train
+inseaniac_tv train
+vitobad train
+imjynxlive train
+josh_swan21 train
+minusscs train
+toyr34 train
+josh_ortega train
+reekris87 train
+moeseftv train
+jetty train
+crushingit79 train
+daedus train
+thinkkfirst train
+robbyo train
+ehhspartan train
+cjpriku train
+1stillmatic train
+natani_k train
+genesis_j train
+jas_cs train
+dire_cs train
+proteustv train
+spookeehead train
+flippybitsgg train
+birdman2642 train
+zaddynguyens train
+manzkid train
+kilroycsgo train
+sh0ts train
+jaamm train
+fruxc train
+nightsifyy train
+ulti_maxxx train
+rheewind train
+daseegs train
+k3vin_csgo train
+itssnow_cs train
+sw_i_ms train
+kazzancs train
+muppet4k train
+buddahkb train
+kmzbn train
+mitchiin train
+oogyl train
+parfilo train
+ariscs train
+hammerna train
+uniics train
+allingaming23 train
+johnngavinn train
+moechilla train
+paxtonps train
+jms832 train
+scorchyybc train
+1herocs train
+ezgrub train
+bigpantv train
+znfcs train
+l1sp1 train
+sanson_tv train
+traviskun_ train
+blakerscs train
+theia train
+doctormonsta train
+runawaychickenx train
+oomoomanoo train
+mayorsayso train
+kirshier train
+plutomonium train
+herovit train
+dabestchicken train
+masamxne train
+speedie_csgo train
+gamerbrozcs train
+funies train
+str8razor train
+mr_worthy train
+polaroidnx train
+zephe train
+tflug train
+hobbitender train
+exc1x train
+andrhw train
+trig8787 train
+aka_jermaine train
+swifttt_tv train
+vertsiepoo train
+mattcdoeyt train
+fvrop train
+krappydaklownjunior train
+zenixxcs train
+nicholaspcs train
+drrtysal train
+the_doobie train
+nguyen_cs train
+hello_kaykay train
+dakzrp train
+vprex train
+debug_tv train
+jackpot_usc train
+roarthor train
+ipleadthe5cs train
+khemust train
+citoxez train
+rovuh train
+thepockypanduh train
+itsbunch train
+snailtopia train
+scruffy_shrooms train
+whitetehshadow train
+glyyphh train
+henos_tv train
+samanthaeg train
+xzencs train
+hydrexcs train
+friskytv train
+animegorls train
+xanxiwnl train
+nastytrick420 train
+draxido train
+naynay2003 train
+roguexlimitz train
+jethro_sb train
+n1copz train
+feralcod train
+goldiwnl train
+maskk_tv train
+puggcsgo train
+2bamboozled train
+masonhtv train
+6358it [00:00, 142959.53it/s]
+Reading  raw_predictions/best_models/chat_train_triplet_temporal.csv
+0it [00:00, ?it/s]sharkie_tv train
+mr_worthy train
+mockcs train
+roarthor train
+scorchyybc train
+thinkkfirst train
+1mannym train
+animegorls train
+ipleadthe5cs train
+2bamboozled train
+citoxez train
+sizarroowo train
+lenoncsgo train
+caspy train
+dakzrp train
+namhel_cs train
+hammerna train
+gamerbrozcs train
+paxtonps train
+adept_dave train
+xanxiwnl train
+str8razor train
+oogyl train
+dire_cs train
+fenomm train
+herovit train
+friskytv train
+sanson_tv train
+johnngavinn train
+hobbitender train
+jetty train
+minusscs train
+manzkid train
+kmzbn train
+cuz1h train
+ttvnyko train
+grxpecs train
+imjynxlive train
+nicxcs train
+jms832 train
+aleksandarhz train
+glyyphh train
+andrhw train
+krappydaklownjunior train
+exc1x train
+piktorial train
+birdman2642 train
+mitchiin train
+scem train
+scruffy_shrooms train
+flippybitsgg train
+itssnow_cs train
+sh0ts train
+draxido train
+funies train
+uniics train
+allingaming23 train
+maskk_tv train
+oomoomanoo train
+smithninjas train
+proteustv train
+dabestchicken train
+wheatie97 train
+cjpriku train
+jas_cs train
+rovuh train
+natani_k train
+hydrexcs train
+jaamm train
+fruxc train
+jackpot_usc train
+daseegs train
+shostak train
+spookeehead train
+samanthaeg train
+makzwell train
+hazardouslive train
+robbyo train
+cryptt train
+mattcdoeyt train
+thepockypanduh train
+drrtysal train
+genesis_j train
+nastytrick420 train
+goldiwnl train
+xelas_ train
+masonhtv train
+naynay2003 train
+speedie_csgo train
+mickslammit train
+parfilo train
+the_doobie train
+zanderd train
+kelxdd train
+kilroycsgo train
+cilantro_live train
+feralcod train
+immenson train
+khemust train
+verzar6 train
+znfcs train
+fvrop train
+beastbox train
+las_cs train
+lexcs train
+lolatyourswag train
+mayorsayso train
+rheewind train
+itsbunch train
+blakerscs train
+whitetehshadow train
+therealflixxy train
+josh_ortega train
+chewiessthong train
+puggcsgo train
+physifyee train
+jewkcs train
+moechilla train
+zephe train
+noxio train
+polaroidnx train
+not_luckyduck38 train
+henos_tv train
+deadhuntar train
+n1copz train
+yayooo_tv train
+zaddynguyens train
+zan3rg train
+hellzaoocsgo train
+k3vin_csgo train
+reekris87 train
+chawkgaming train
+debug_tv train
+hated2k train
+kaboosecs train
+theia train
+ulti_maxxx train
+aka_jermaine train
+d0minictv train
+tflug train
+nicholaspcs train
+sw_i_ms train
+masamxne train
+xxslayerrulesxx train
+traviskun_ train
+snailtopia train
+chill3k train
+l1sp1 train
+strik3r_13 train
+samster_cs train
+nitsua_tv train
+persian_tv train
+vitobad train
+moeseftv train
+muppet4k train
+plutomonium train
+zan0theman0 train
+ariscs train
+itaroo_bot train
+runawaychickenx train
+nguyen_cs train
+jsetv train
+1herocs train
+lilgrizz818 train
+roguexlimitz train
+doodiehead train
+hello_kaykay train
+vertsiepoo train
+blairski7 train
+vprex train
+nightsifyy train
+benzjamin train
+daedus train
+trig8787 train
+ezgrub train
+daemgg train
+ro_cs train
+swifttt_tv train
+buddahkb train
+ferknights train
+crushingit79 train
+zenixxcs train
+tylercheetah train
+motm train
+kirshier train
+inseaniac_tv train
+c0nfusiontv train
+1stillmatic train
+xzencs train
+xperplexity train
+kazzancs train
+gunwoundz train
+josh_swan21 train
+realxsg train
+kermeytheefrog train
+jethro_sb train
+retroxox train
+ehhspartan train
+toyr34 train
+voltz420 train
+bunnyisbad train
+doctormonsta train
+bigpantv train
+203it [00:00, 72291.03it/s]
+Reading  raw_predictions/best_models/chat_val_triplet.csv
+0it [00:00, ?it/s]1perkyomg valid
+zijuu valid
+chaddypz valid
+lazy_bum_ valid
+dyl0210 valid
+passionite valid
+conankun valid
+mike_qq valid
+andrewemory1997 valid
+novices valid
+average16 valid
+lordnm valid
+joelxyz valid
+vzohhck valid
+alejo98vs valid
+austingw valid
+imskizzy valid
+ironman_ts valid
+bratty valid
+trimbibs valid
+meagan valid
+abcdroid valid
+tv_deka valid
+phightme valid
+alert_tv valid
+msxshots valid
+paukbhop valid
+frownnn valid
+mala valid
+wholewheatpete valid
+goofplays valid
+xdustee valid
+joshinthebox169 valid
+humbabeast valid
+isopandaman valid
+cajiky valid
+tyler_a_lot valid
+heartbreaker_tv valid
+spcfoxtv valid
+zealyth_ valid
+german66 valid
+xirttv valid
+aesthetic1g valid
+landmaz valid
+malbsmdsaiyajin valid
+bighurtz valid
+1mountainog valid
+realsicko_tv valid
+tenz valid
+dooran valid
+dellzorfn valid
+ec0nica valid
+cyanoodle valid
+itsmebemar valid
+nzer0name valid
+covertplague valid
+fadedabeast valid
+1sparx valid
+jonnyza valid
+mad3sto valid
+itrxgic valid
+waveum valid
+dropdeadlexi valid
+1oof valid
+theanonymousrory valid
+intry valid
+skrubwreckxor valid
+jack1 valid
+blique_ valid
+deejayfu valid
+its_slim_ valid
+bert_cs valid
+sotz02 valid
+j9shtv valid
+svnxd valid
+royl_ty valid
+colbzz valid
+truepain_ valid
+jmoh valid
+2421it [00:00, 122408.66it/s]
+Reading  raw_predictions/best_models/chat_val_triplet_temporal.csv
+0it [00:00, ?it/s]conankun valid
+imskizzy valid
+dooran valid
+bert_cs valid
+novices valid
+aesthetic1g valid
+truepain_ valid
+tv_deka valid
+jmoh valid
+jonnyza valid
+xdustee valid
+itrxgic valid
+spcfoxtv valid
+ec0nica valid
+humbabeast valid
+xirttv valid
+nzer0name valid
+sotz02 valid
+joshinthebox169 valid
+cyanoodle valid
+blique_ valid
+andrewemory1997 valid
+1mountainog valid
+german66 valid
+intry valid
+bratty valid
+fadedabeast valid
+ironman_ts valid
+royl_ty valid
+j9shtv valid
+mike_qq valid
+svnxd valid
+tyler_a_lot valid
+frownnn valid
+1perkyomg valid
+lordnm valid
+phightme valid
+vzohhck valid
+isopandaman valid
+dyl0210 valid
+zijuu valid
+1sparx valid
+joelxyz valid
+skrubwreckxor valid
+alert_tv valid
+1oof valid
+landmaz valid
+trimbibs valid
+average16 valid
+chaddypz valid
+colbzz valid
+dellzorfn valid
+realsicko_tv valid
+heartbreaker_tv valid
+theanonymousrory valid
+cajiky valid
+wholewheatpete valid
+its_slim_ valid
+mala valid
+passionite valid
+covertplague valid
+waveum valid
+deejayfu valid
+bighurtz valid
+paukbhop valid
+malbsmdsaiyajin valid
+tenz valid
+austingw valid
+msxshots valid
+goofplays valid
+lazy_bum_ valid
+zealyth_ valid
+dropdeadlexi valid
+abcdroid valid
+alejo98vs valid
+meagan valid
+jack1 valid
+itsmebemar valid
+mad3sto valid
+79it [00:00, 68930.73it/s]
+Reading  raw_predictions/best_models/train_triplet_wo_pretrain_spatial_train.json
+  0%|          | 0/2521 [00:00<?, ?it/s]voltz420 train
+red_cyrex train
+yayooo_tv train
+hammerna train
+las_cs train
+deadhuntar train
+piktorial train
+nannerss_ train
+d0minictv train
+flippybitsgg train
+caspy train
+runawaychickenx train
+nova_pc train
+chimu90 train
+hazardouslive train
+smithninjas train
+nastytrick420 train
+cuz1h train
+blairski7 train
+johnngavinn train
+bot_sh4rk train
+ulti_maxxx train
+hunt__tv train
+physifyee train
+bryfooks train
+tmay train
+daseegs train
+manzkid train
+hello_kaykay train
+nitsua_tv train
+proteustv train
+kraytosthegod train
+theia train
+jetty train
+1mannym train
+allingaming23 train
+parfilo train
+maskk_tv train
+zan0theman0 train
+xxslayerrulesxx train
+axylus train
+franchiselol train
+jsvague train
+ylevii train
+krappydaklownjunior train
+kazzancs train
+daedus train
+mockcs train
+wheatie97 train
+plutomonium train
+lexcs train
+imjynxlive train
+1herocs train
+moechilla train
+da_ft train
+kelxdd train
+vitobad train
+alexb_ train
+zan3rg train
+benzjamin train
+noxio train
+kermeytheefrog train
+drrtysal train
+namhel_cs train
+gunwoundz train
+therealflixxy train
+ttvnyko train
+farthammer1sg train
+smoakland22 train
+realxsg train
+sh0ts train
+hayon_tv train
+paxtonps train
+synge train
+ehhspartan train
+funies train
+birdman2642 train
+inseaniac_tv train
+ablaze___ train
+king_auzie train
+gajokerl train
+exoticcsz train
+alexastro train
+xajs train
+danknastycs train
+uniics train
+doubleapple train
+sharkie_tv train
+daemgg train
+chqrlslol train
+spookeehead train
+robbyo train
+xtr_nbf train
+gdpink train
+hobbitender train
+makzwell train
+natani_k train
+dabestchicken train
+tannersorensen train
+adept_dave train
+persian_tv train
+oomoomanoo train
+syzba train
+very_classic train
+toyr34 train
+glyyphh train
+zaddynguyens train
+thepockypanduh train
+jmaldocs train
+ferknights train
+lenoncsgo train
+ro_cs train
+motm train
+speedie_csgo train
+nom_cs train
+znfcs train
+lolatyourswag train
+blunt_af train
+jtgpc train
+sw_i_ms train
+1xiro train
+chawkgaming train
+ariscs train
+clide1d train
+csr1234 train
+heyitsboz train
+huston_tv train
+lilgrizz818 train
+animegorls train
+doodiehead train
+ashen_cs train
+khemust train
+hellzaoocsgo train
+kilroycsgo train
+hacking_tv train
+modernkeyboard train
+nicxcs train
+slayerhz train
+andrhw train
+genesis_j train
+reekris87 train
+filiwaiiantv train
+polaroidnx train
+grxpecs train
+blakerscs train
+traviskun_ train
+concuring train
+moroncs train
+lirimmz train
+a3har train
+zephe train
+itzace_gg train
+bayys train
+fvrop train
+katernum train
+feralcod train
+ar5cs train
+moeseftv train
+minusscs train
+goondolf train
+rheewind train
+aleksandarhz train
+masamxne train
+crossbar18 train
+jackpot_usc train
+cilantro_live train
+laza413 train
+jas_cs train
+xelas_ train
+vprex train
+l1sp1 train
+exc1x train
+scruffy_shrooms train
+arzee_cs train
+nguyen_cs train
+bertnasty_ train
+westcentralzz train
+cryptt train
+palombatv train
+mattcdoeyt train
+xmalsz train
+ihideinplants train
+oriontaker train
+cjpriku train
+herovit train
+rovuh train
+doctormonsta train
+rogerbiometal train
+josh_swan21 train
+snailtopia train
+n1copz train
+nicholaspcs train
+gamerbrozcs train
+storfisk train
+ethxnnnn train
+k3vin_csgo train
+tuulio train
+beastbox train
+xperplexity train
+zigster train
+thinkkfirst train
+1stillmatic train
+zanderd train
+itsbunch train
+dittowill train
+fenomm train
+mayorsayso train
+draxido train
+kingbonoboqc train
+masonhtv train
+dum0re train
+str8razor train
+swifttt_tv train
+fruxc train
+ipleadthe5cs train
+pandacchaos train
+poisonnd train
+kimatarokisharo train
+stellar_cs train
+squidah_ train
+crimgame train
+nutty_live train
+chill3k train
+g3ditor train
+bo0mie train
+fakeem train
+hotsaucek2 train
+masstibbs train
+mr_worthy train
+gtjninjaboy train
+dakzrp train
+naynay2003 train
+dabearsniner train
+jms832 train
+r3nch train
+bunnyisbad train
+pattylovesyou train
+to3tagz train
+retroxox train
+dicezzz train
+tors0_ train
+shaneomj train
+katsucs train
+sushizcs train
+chewiessthong train
+whitetehshadow train
+buddahkb train
+jewkcs train
+ruszani train
+hokku train
+hydrexcs train
+c0nfusiontv train
+yatoyogurt train
+zenixxcs train
+nerd0cs train
+swazired train
+cok4in train
+dudeitsaduck train
+oct_tv train
+1kosh train
+aka_jermaine train
+spiritedchan train
+jerk1 train
+muppet4k train
+crushingit79 train
+fangjc_ train
+scem train
+rectum_spectrum train
+hated2k train
+solgoat train
+100%|██████████| 2521/2521 [00:00<00:00, 335241.13it/s]
+Reading  raw_predictions/best_models/train_triplet_wo_pretrain_motion_train.json
+  0%|          | 0/2521 [00:00<?, ?it/s]las_cs train
+voltz420 train
+smithninjas train
+yayooo_tv train
+runawaychickenx train
+nannerss_ train
+nastytrick420 train
+piktorial train
+red_cyrex train
+nova_pc train
+deadhuntar train
+d0minictv train
+chimu90 train
+hazardouslive train
+flippybitsgg train
+hammerna train
+caspy train
+kermeytheefrog train
+tmay train
+xxslayerrulesxx train
+proteustv train
+manzkid train
+zan0theman0 train
+xtr_nbf train
+sharkie_tv train
+1mannym train
+oomoomanoo train
+zan3rg train
+physifyee train
+zaddynguyens train
+namhel_cs train
+sh0ts train
+motm train
+theia train
+reekris87 train
+persian_tv train
+vitobad train
+plutomonium train
+wheatie97 train
+paxtonps train
+r3nch train
+n1copz train
+ttvnyko train
+thinkkfirst train
+ylevii train
+katernum train
+kraytosthegod train
+nitsua_tv train
+xmalsz train
+krappydaklownjunior train
+lilgrizz818 train
+1herocs train
+khemust train
+kazzancs train
+lirimmz train
+rheewind train
+tors0_ train
+ro_cs train
+pattylovesyou train
+realxsg train
+therealflixxy train
+smoakland22 train
+kilroycsgo train
+polaroidnx train
+vprex train
+rovuh train
+parfilo train
+zephe train
+sw_i_ms train
+retroxox train
+laza413 train
+mockcs train
+kelxdd train
+zanderd train
+toyr34 train
+lexcs train
+palombatv train
+natani_k train
+synge train
+minusscs train
+thepockypanduh train
+xperplexity train
+lolatyourswag train
+noxio train
+nom_cs train
+robbyo train
+nguyen_cs train
+moroncs train
+lenoncsgo train
+xajs train
+naynay2003 train
+kingbonoboqc train
+tannersorensen train
+moechilla train
+moeseftv train
+speedie_csgo train
+tuulio train
+makzwell train
+oct_tv train
+pandacchaos train
+nicxcs train
+oriontaker train
+scruffy_shrooms train
+muppet4k train
+masamxne train
+1xiro train
+king_auzie train
+znfcs train
+snailtopia train
+l1sp1 train
+uniics train
+mr_worthy train
+str8razor train
+syzba train
+nicholaspcs train
+traviskun_ train
+maskk_tv train
+storfisk train
+to3tagz train
+ulti_maxxx train
+ruszani train
+swifttt_tv train
+slayerhz train
+rectum_spectrum train
+westcentralzz train
+mattcdoeyt train
+1stillmatic train
+modernkeyboard train
+scem train
+sushizcs train
+rogerbiometal train
+k3vin_csgo train
+1kosh train
+nerd0cs train
+masonhtv train
+shaneomj train
+yatoyogurt train
+stellar_cs train
+swazired train
+squidah_ train
+masstibbs train
+mayorsayso train
+zenixxcs train
+spiritedchan train
+katsucs train
+solgoat train
+xelas_ train
+spookeehead train
+zigster train
+whitetehshadow train
+poisonnd train
+nutty_live train
+very_classic train
+kimatarokisharo train
+jmaldocs train
+axylus train
+cuz1h train
+gdpink train
+andrhw train
+daemgg train
+animegorls train
+blakerscs train
+hacking_tv train
+franchiselol train
+imjynxlive train
+adept_dave train
+inseaniac_tv train
+hello_kaykay train
+allingaming23 train
+benzjamin train
+danknastycs train
+doubleapple train
+cjpriku train
+beastbox train
+alexastro train
+doodiehead train
+da_ft train
+ehhspartan train
+exoticcsz train
+genesis_j train
+gunwoundz train
+jackpot_usc train
+clide1d train
+hated2k train
+funies train
+blairski7 train
+alexb_ train
+glyyphh train
+dudeitsaduck train
+dicezzz train
+ariscs train
+chawkgaming train
+bayys train
+birdman2642 train
+farthammer1sg train
+hayon_tv train
+cilantro_live train
+drrtysal train
+johnngavinn train
+chqrlslol train
+csr1234 train
+goondolf train
+aleksandarhz train
+hobbitender train
+chill3k train
+herovit train
+ablaze___ train
+g3ditor train
+hellzaoocsgo train
+arzee_cs train
+bot_sh4rk train
+ar5cs train
+a3har train
+huston_tv train
+hokku train
+jas_cs train
+fenomm train
+jsvague train
+doctormonsta train
+jewkcs train
+ashen_cs train
+gamerbrozcs train
+fakeem train
+ferknights train
+fruxc train
+crushingit79 train
+feralcod train
+gtjninjaboy train
+grxpecs train
+hunt__tv train
+daseegs train
+filiwaiiantv train
+ethxnnnn train
+dittowill train
+daedus train
+itsbunch train
+jerk1 train
+dakzrp train
+aka_jermaine train
+itzace_gg train
+blunt_af train
+exc1x train
+ipleadthe5cs train
+crimgame train
+hydrexcs train
+fvrop train
+hotsaucek2 train
+c0nfusiontv train
+bunnyisbad train
+ihideinplants train
+gajokerl train
+cryptt train
+concuring train
+buddahkb train
+josh_swan21 train
+jetty train
+cok4in train
+dum0re train
+dabestchicken train
+bertnasty_ train
+dabearsniner train
+bo0mie train
+draxido train
+jms832 train
+fangjc_ train
+chewiessthong train
+bryfooks train
+jtgpc train
+heyitsboz train
+crossbar18 train
+100%|██████████| 2521/2521 [00:00<00:00, 283488.58it/s]
+Reading  raw_predictions/best_models/train_triplet_wo_pretrain_spatial_valid.json
+  0%|          | 0/809 [00:00<?, ?it/s]1perkyomg valid
+tyler_a_lot valid
+humbabeast valid
+msxshots valid
+xdustee valid
+nzer0name valid
+zijuu valid
+lumaaz valid
+grewia valid
+zealyth_ valid
+qtemperr valid
+iserac valid
+fadedabeast valid
+lordnm valid
+xirttv valid
+passionite valid
+austingw valid
+ec0nica valid
+aesthetic1g valid
+cajiky valid
+mike_qq valid
+abcdroid valid
+heartbreaker_tv valid
+1sparx valid
+itrxgic valid
+waveum valid
+deejayfu valid
+meagan valid
+malbsmdsaiyajin valid
+phightme valid
+tylerstv valid
+br3ac valid
+wholewheatpete valid
+asuna_csgo valid
+drhippo valid
+joelxyz valid
+amnesia_cs valid
+antyy_ valid
+vzohhck valid
+mfxolddie valid
+landmaz valid
+nick_thacker valid
+mj4k_ valid
+alejo98vs valid
+cyanoodle valid
+jmoh valid
+codsky valid
+omgkam valid
+mattchuwu valid
+izzawrap valid
+professorbeetus valid
+mala valid
+goofplays valid
+zevrooo valid
+unbrokenstreams valid
+andrewemory1997 valid
+realsicko_tv valid
+tenz valid
+novices valid
+isopandaman valid
+conankun valid
+slight___ valid
+its_slim_ valid
+snoob_ valid
+mad3sto valid
+frownnn valid
+covertplague valid
+alert_tv valid
+intry valid
+j9shtv valid
+dyl0210 valid
+edp__ valid
+sotz02 valid
+jack1 valid
+ironman_ts valid
+vizzuaal valid
+clasia valid
+paukbhop valid
+royl_ty valid
+trimbibs valid
+yaboisalad valid
+average16 valid
+theanonymousrory valid
+nopecsnosekx valid
+bert_cs valid
+theprince_cs valid
+cjxy valid
+dooran valid
+tekkys valid
+bighurtz valid
+fkmdead valid
+imskizzy valid
+chaddypz valid
+zfranks valid
+bratty valid
+suplexfps valid
+brine_tv valid
+lazy_bum_ valid
+100%|██████████| 809/809 [00:00<00:00, 491197.44it/s]
+Reading  raw_predictions/best_models/train_triplet_wo_pretrain_motion_valid.json
+  0%|          | 0/809 [00:00<?, ?it/s]1perkyomg valid
+nzer0name valid
+msxshots valid
+tyler_a_lot valid
+xdustee valid
+humbabeast valid
+paukbhop valid
+professorbeetus valid
+zijuu valid
+tylerstv valid
+slight___ valid
+waveum valid
+mfxolddie valid
+zealyth_ valid
+nopecsnosekx valid
+mj4k_ valid
+royl_ty valid
+landmaz valid
+mala valid
+1sparx valid
+wholewheatpete valid
+mad3sto valid
+snoob_ valid
+passionite valid
+mike_qq valid
+tenz valid
+meagan valid
+vzohhck valid
+lordnm valid
+sotz02 valid
+phightme valid
+realsicko_tv valid
+malbsmdsaiyajin valid
+xirttv valid
+theprince_cs valid
+novices valid
+omgkam valid
+tekkys valid
+vizzuaal valid
+suplexfps valid
+lumaaz valid
+qtemperr valid
+lazy_bum_ valid
+zfranks valid
+nick_thacker valid
+trimbibs valid
+theanonymousrory valid
+unbrokenstreams valid
+zevrooo valid
+yaboisalad valid
+mattchuwu valid
+fadedabeast valid
+austingw valid
+cajiky valid
+jmoh valid
+ec0nica valid
+ironman_ts valid
+grewia valid
+asuna_csgo valid
+izzawrap valid
+goofplays valid
+aesthetic1g valid
+jack1 valid
+alejo98vs valid
+heartbreaker_tv valid
+alert_tv valid
+deejayfu valid
+codsky valid
+cyanoodle valid
+intry valid
+itrxgic valid
+abcdroid valid
+conankun valid
+drhippo valid
+iserac valid
+average16 valid
+edp__ valid
+andrewemory1997 valid
+isopandaman valid
+br3ac valid
+its_slim_ valid
+joelxyz valid
+amnesia_cs valid
+imskizzy valid
+dooran valid
+cjxy valid
+j9shtv valid
+frownnn valid
+bighurtz valid
+dyl0210 valid
+bratty valid
+bert_cs valid
+fkmdead valid
+chaddypz valid
+covertplague valid
+antyy_ valid
+clasia valid
+brine_tv valid
+100%|██████████| 809/809 [00:00<00:00, 144182.54it/s]
+===== ironman_ts ========
+rank 1
+audio [-2.97258222573417, -2.6725943570509254, -2.9671969612652735]
+txt [-0.33351601206150144, -0.17143294694999528, -0.18811599208761556, -0.2915357977264897, -0.1609229775720147, -0.10322143159484784, -0.08376774909363997, 0.34966871144038875, -0.3013324789072711, -0.28570703214300663, -0.23406123860693423, -0.2906556527587481, -0.2821361435483245, -0.1406862273282077, -0.078454897187445, 0.002201600889271171, 0.3762668585016872, -0.2645726647708783, -0.1653563872915937, -0.15481165379708148, 0.11377938792074438, 0.36962515681554137, 0.20763880708595286, -0.21830972534973583, -0.3096893779378125, -0.03786252256830671, -0.22394874537484652, -0.2505155855850823, 0.05139330898956032, -0.327596033271557, -0.33186396910284693, -0.2910164970211684, -0.08401205842298544, -0.251712741693837, -0.3392009043556928, -0.2946973046813986, -0.3211715857152635, -0.27018817064042244, -0.27977499458065125, -0.09085236088993619, -0.09510850822655896, -0.2588197170158025, 0.32910790266709533, -0.3542833775745489, -0.18329171531698338, -0.19090246167248653, -0.34868628399769896, 0.15923130645171385, -0.29843788303056745, 0.24391320253983603]
+tmp [1.6458479566576434]
+img [0.5341540575027466, 0.9149619340896606, 0.5340347290039062, 0.2692779302597046, 0.4307604730129242, 0.37127119302749634, 0.29417312145233154, 0.3987279534339905]
+mov [0.5159057378768921, 0.5279148817062378, 0.49127665162086487, 0.45669078826904297, 0.48926252126693726, 0.4724971652030945, 0.49743717908859253, 0.5411359071731567]
+===== xdustee ========
+rank 1
+audio [1.4190535498206893, 0.038644808696701435, 2.3124145387483535, 1.8293141306674796, 2.2285024397798416, 0.9723115555322099, 0.3618161435675486, 2.397415368769963, -1.0482567143385166, -0.9440648180792828, 0.0, 0.23017082261411606, 2.513315065948621, 2.1134126642192674, -1.117851638283621, 1.678607099336223, 2.1911283491900337, 2.208273303633188, -1.5878258820502997, 2.2794412588844244]
+txt [-0.017117457949526977, -0.10821901239194474, -0.3465051453312114, -0.13856086233849518, 0.047272401257029965, -0.12456658370492119, -0.2689889221126537, 0.019545422210494563, -0.07549924256292409, 0.18906372924058937, -0.18845740018863574, -0.04375033717871769, -0.058400072461500675, 0.20213827815504037, -0.06598352964976477, -0.2910490160059656, -0.11892617074139752, -0.43501338130947537, 0.15939421577720883, 0.27716561436233356, 0.24286474739347658, 0.3758571061885378, -0.35903547616039166, -0.19096813662048173, -0.035620045711738886, -0.10693811347740438, -0.10163632115623222, 0.2830617811895076, 0.27728724165239876, -0.47728016505461424, -0.3124082560075079, 0.020473715139092744, -0.13565621355151322, -0.07942893313746177, -0.09005962148328295, -0.2689889221126537, -0.2030523943198445, -0.16035303655292465, -0.1069242338770977, -0.3107496842577553, -0.24544555034286006, 0.26782244302418357, -0.07705370144945665, -0.1679428225261705, -0.27490468715947114, -0.26841252200244053, -0.1802317399006367, -0.1998034602869932, 0.1836828692340164, -0.19298573289103463]
+tmp [-1.4026141688557514]
+img [0.7285497188568115, 0.41310104727745056, 0.5645477175712585, 0.7850080132484436, 0.49920541048049927, 0.6811442971229553, 0.6657740473747253, 0.638357937335968, 0.5843944549560547, 0.6164020895957947, 0.7212522625923157, 0.7014392614364624, 0.7390433549880981, 0.8334711194038391, 0.4012661874294281, 0.6692727208137512, 0.4483552575111389, 0.6845159530639648]
+mov [0.5150701999664307, 0.4932290017604828, 0.5044287443161011, 0.4777803421020508, 0.5014318227767944, 0.5302283763885498, 0.5513485074043274, 0.47439566254615784, 0.5150353908538818, 0.5220782160758972, 0.528812050819397, 0.5223140716552734, 0.5227972269058228, 0.46274375915527344, 0.4621686041355133, 0.5103418827056885, 0.4971655309200287, 0.48860710859298706]
+===== nzer0name ========
+rank 1
+audio [0.5347916793458211, 2.2285024397798416, 1.3961359113834007, 2.721267717662447, 2.2285024397798416, 0.40909142662107656, 0.6856116208229929, 2.396107514105616, 2.278017257472392, 1.6133790883516832, -0.18403769107357998, 1.2731412273377105, -0.4868326402746905, 0.6242740969564393]
+txt [-0.03442651974738621, -0.055508248118695584, -0.169608468102428, -0.12407934583042136, -0.12340388675314613, -0.015157490195493678, -0.0939476788860827, -0.1595526991503746, -0.08508008474997802]
+tmp [-1.3235166473093987]
+img [0.6618527173995972, 0.7510331273078918, 0.8751806020736694, 0.6496562361717224, 0.6104069948196411, 0.687184751033783, 0.7467935085296631, 0.8992606401443481, 0.9020573496818542, 0.6868376135826111, 0.7730318903923035, 0.8992606401443481, 0.676979124546051, 0.5400687456130981, 0.7260333299636841, 0.7096455097198486, 0.8992606401443481, 0.707976222038269, 0.5981340408325195, 0.690808117389679, 0.6336168050765991, 0.6554746627807617, 0.7729943990707397, 0.7753989696502686, 0.658023476600647, 0.6819424033164978, 0.7634417414665222, 0.7572963237762451, 0.5629037618637085, 0.8413134813308716, 0.5784803628921509, 0.6074956059455872, 0.7027737498283386, 0.5461541414260864, 0.7505469918251038, 0.6322859525680542, 0.5735417604446411]
+mov [0.45836010575294495, 0.47706618905067444, 0.3850852847099304, 0.5080669522285461, 0.4520726203918457, 0.458473265171051, 0.4898439943790436, 0.5000036954879761, 0.43078261613845825, 0.45010247826576233, 0.4523581564426422, 0.5259802937507629, 0.46900367736816406, 0.5014068484306335, 0.5124265551567078, 0.4811854958534241, 0.4232873320579529, 0.492359459400177, 0.4640522599220276, 0.5047920942306519, 0.5007945895195007, 0.4930412173271179, 0.44359737634658813, 0.511069118976593, 0.5009335279464722, 0.5182518362998962, 0.5097662806510925, 0.4659866392612457, 0.4930412173271179, 0.4436154365539551, 0.517396092414856, 0.43844932317733765, 0.4568618834018707, 0.4930412173271179, 0.4121745228767395, 0.46342334151268005, 0.5100785493850708]
+===== realsicko_tv ========
+rank 1
+audio [-2.619562085158617, -0.3982619358940501]
+txt [-0.13400677963073498, 0.3791973544075402]
+tmp [0.21562962885519057]
+img [0.5839282274246216, 0.7637065649032593, 0.3299178183078766, 0.37456291913986206]
+mov [0.4763447642326355, 0.4813137650489807, 0.4040908217430115, 0.4923931956291199]
+===== intry ========
+rank 1
+audio [2.513315065948621, 2.3470567766772747, 0.3408212476294334, 1.4243534951291532, 3.093407733009218]
+txt [-0.22930915203353822, -0.12001211646088242, -0.2432606984348515, -0.08345400139608916]
+tmp [0.6703029881571971]
+img [0.6654531955718994, 0.8415378332138062, 0.7391892671585083, 0.6969422101974487, 0.5193248391151428]
+mov [0.5257716178894043, 0.49839338660240173, 0.4533753991127014, 0.5268774628639221, 0.49271535873413086]
+===== cajiky ========
+rank 1
+audio [-1.5892460418900882, -2.1935632764814637, 0.9079964522043049, 1.1179054916027888, -2.653558853277029, -1.388170416951231]
+txt [-0.17544287306742098, -0.14501801343682924, -0.28157004791949436, -0.27227235692569224, -0.1420848336523844, -0.2742130956827592, -0.2352953152401549, -0.05188403598400554, -0.16840938601673497, -0.15108687350757313, -0.0931442437512756, 0.26948268303724965, -0.22557053619749215, -0.023913219483575728, -0.12053387882453882, -0.18711911063599335, 0.2403905827503485, -0.27174654960604155, -0.238615772436087, -0.16562944843394772, 0.24914156699318474, -0.06386233581984255, -0.11678563469474161, -0.137178433725682, -0.2941158858109209, -0.5205140477019634, -0.12038947623175242, -0.18169662785909715, 0.04441586041123874, -0.17626769729334546, -0.05485635209479307, 0.3811803606659377, -0.23446902264167677, -0.06695436119237129, -0.15333178605030498, 0.25308671392411985, -0.26283158387206557, 0.3548054461149549, -0.13826408545038643, -0.1372172960322488, -0.06445610645540914, -0.21891833955907897, -0.35149811211691057, 0.20083449478381535, 0.2994624377672232, -0.20635361799888483, -0.10837835870773256, -0.05072327248521951, 0.0022164009073262782, -0.14840203839919403]
+tmp [0.4859489702063557]
+img [0.5850995779037476, 0.8531824946403503, 0.7560808658599854, 0.42783793807029724, 0.8159297108650208, 0.8181846737861633]
+mov [0.47777533531188965, 0.44344615936279297, 0.49521923065185547, 0.4613110423088074, 0.3849780261516571, 0.41928958892822266]
+===== landmaz ========
+rank 1
+audio [1.7858685388675968, 0.9780947018556392, 1.4488410086379473, -1.8283076807420109, 1.7658434375171836, -1.2385412749565345, 0.13532614332794807, 2.369988992670117, 2.4735967390933093, -0.47425346859150824, 2.999908655224697, -1.8934640935913944]
+txt [-0.09004415016006306, 0.5026027845870193, -0.099016539546012, 0.3573284349264516, -0.1053548621031121, 0.3436251682452889, -0.06120838243742263, 0.3790962046317599, -0.05878316105827995, -0.16937145405217835, -0.05498584969755726, -0.1421920935857172, -0.21941951013923042, 0.03479150902114975, -0.06975987642936768, -0.315468927867922, -0.2643959297105493, 0.43850833711550063, -0.1386546714676005, -0.14941161419558835, -0.1318984900740902, -0.1267355223398383, 0.1543352192328103, -0.18460770533182275, -0.11341244670561698, -0.1573345556889231, 0.19033049744155425, -0.18431837801489284, -0.11358572354970095, 0.20926332725447722, 0.2604803548641976]
+tmp [1.2618441234106192]
+img [0.33716797828674316, 0.36045199632644653, 0.46094799041748047, 0.3337540924549103, 0.3244282603263855, 0.5313005447387695, 0.3156748116016388, 0.3702566921710968, 0.2945055365562439, 0.4070667624473572, 0.31230711936950684, 0.42474985122680664, 0.6440291404724121, 0.24071288108825684, 0.3640216290950775, 0.27038636803627014, 0.21519246697425842, 0.38864585757255554, 0.4175727367401123, 0.4048451781272888, 0.44588369131088257, 0.4984799325466156, 0.41207319498062134, 0.40678948163986206]
+mov [0.47925668954849243, 0.465378999710083, 0.4219745099544525, 0.5086945295333862, 0.42891615629196167, 0.4834170341491699, 0.4843328595161438, 0.4847833514213562, 0.5279968976974487, 0.474883496761322, 0.47035080194473267, 0.4963829517364502, 0.4847187399864197, 0.5090640187263489, 0.4692310690879822, 0.4720076620578766, 0.5156358480453491, 0.43596115708351135, 0.46170559525489807, 0.493495374917984, 0.5421880483627319, 0.44157662987709045, 0.4899539351463318, 0.5079957246780396]
+===== malbsmdsaiyajin ========
+rank 1
+audio [-2.7499406876535475, -1.9700827400926573, 0.9058490522587763, -1.4672563072035276]
+txt [0.20210797070729383, 0.40986288171424573, 0.20210797070729383]
+tmp [1.6975264585498253]
+img [0.7452391386032104, 0.7444211840629578, 0.7219995260238647, 0.751983106136322, 0.7332353591918945, 0.9175745248794556, 0.7849985957145691, 0.9530763626098633, 0.9395634531974792]
+mov [0.5490986108779907, 0.5303729772567749, 0.4833907186985016, 0.546432375907898, 0.48785799741744995, 0.4765181541442871, 0.5356510877609253, 0.48469728231430054, 0.48606738448143005]
+===== tenz ========
+rank 1
+audio [2.4996887882723464, -0.33255122749156585, -1.9825243298618325, -1.824790861510408, -1.2051518452781407, 2.8638459443920707, -1.2309797075286317, 2.499403606492411, 2.168880997938168, 2.2736369475081077]
+txt [-0.12192722581799376, -0.20113999941210886, -0.2059579233238781, 0.24479259985790153, -0.2712666938853733, 0.0004136000058960021, -0.18561427918008264, 0.2826880025148369, 0.32580204283131625, -0.30365799640842467, -0.23404359922179072, 0.23330221008556312, 0.025412007437956973, -0.0941729764738206, 0.23766538441227567, 0.210833358343436, 0.25719948907899365, 0.35735663639458093, -0.2793407801239331, -0.17793449909346482, -0.121154940721622, 0.5192496814075678, 0.030707372713672958, -0.02289820046072092, -0.24368585748022512, -0.20167527125524248, 0.22521595063045172, -0.23512311535986996, 0.1518189355249878, 0.2909810776475019, -0.044154372246975486, -0.02409396551642018, 0.5554415142969846, -0.25240270557958594, -0.20484442082075408, -0.1218106339807584, 0.37642761919810724, 0.3238371117754033, -0.15605440978376106, -0.017317472772115417, -0.30365799640842467, 0.11407434293436071, -0.06994822600988418, -0.11302147650423575, -0.16959203046273033, 0.5192496814075678, -0.25562911692110296, -0.011715413994111443, 0.20737599817215144, -0.03667074884437594]
+tmp [1.1037942580834]
+img [0.6461898684501648, 0.6798094511032104, 0.7606090307235718, 0.43085241317749023, 0.6353397965431213, 0.4184059202671051, 0.6856917142868042, 0.3592143654823303, 0.5387378334999084, 0.7144404649734497]
+mov [0.5277949571609497, 0.5073344111442566, 0.5265153050422668, 0.5514448285102844, 0.5676091313362122, 0.5281467437744141, 0.5256909728050232, 0.5167733430862427, 0.5728582143783569, 0.5485109090805054]
+===== mike_qq ========
+rank 1
+audio [0.1793592868798426, -1.1910566949044081, -0.5160770807824796, -1.6653135869782887, 1.1087714456862259, -1.105611208635048, -1.3163871833814549, -1.1629591944217916, 1.9576647267504292, -2.791228790587609]
+txt [-0.017476764824414556, -0.11889465961400571, -0.13309183209370243, -0.07665951991925729, 0.012671769560067199, -0.2088257412717683, -0.27807352587165046, 0.05933043796962296, 0.10057629671931961, -0.22100874272260146, -0.25620541077018055, 0.46252729816360977, -0.17128377724361546, -0.25512579899818777, -0.29274736526771444, -0.28167751084031545, -0.15001783860390613, -0.15680007275015972, -0.18845885301245074, -0.22570924687990404, 0.04727268141348759, -0.06170693290552976, -0.32815585328265334, 0.032102756772853326, -0.21960326606422603, -0.2672490642331282, -0.07549876187858717, -0.09299696527448899, -0.1112970646018267, -0.24897797607463829, -0.15601368289563008, -0.04415525267596757]
+tmp [0.2097449334996638]
+img [0.7682328820228577, 0.8132936358451843, 0.7822592854499817, 0.8895803689956665, 0.6702513694763184, 0.6927722692489624, 0.7978874444961548, 0.847817063331604, 0.5803370475769043, 0.7218891978263855, 0.6380490660667419, 0.6984444856643677, 0.6882580518722534]
+mov [0.47587624192237854, 0.5175517201423645, 0.477322518825531, 0.5327288508415222, 0.5411361455917358, 0.4287795126438141, 0.4807744026184082, 0.5347233414649963, 0.5229383707046509, 0.51325523853302, 0.4908628463745117, 0.4351902902126312, 0.4614221453666687]
+===== andrewemory1997 ========
+rank 1
+audio [-3.8969348755446873, -2.8744725386275514, -1.6239560857317468, -2.0578657557688773, -1.8082480340703726]
+txt [-0.06379362588606691, -0.12877457997834135, -0.1323845256296604, -0.10023596039182885, -0.04049617336730232, -0.056251347917364865, -0.06120838243742263, -0.19508618011054032, -0.14988573879406564, -0.16390225882178552, -0.07475839814275825, -0.17753592789411896, -0.1857262789155232, -0.16893921677801735, -0.20238134723370602, -0.10502162201028283, -0.09644360532999906, -0.12427088228433844, -0.1329566357632828, -0.09749796008696225, -0.3268373623697095]
+tmp [0.47449411474715847]
+img [0.6738600730895996, 0.8049265742301941, 0.9404724836349487, 0.6911585927009583, 0.6859444379806519]
+mov [0.5330080389976501, 0.5467157959938049, 0.432433545589447, 0.525364875793457, 0.4862956404685974]
+===== mala ========
+rank 1
+audio [1.1685344028891536, 1.7190776989668335, 1.9260358603683843, 2.7036214581823996, 1.1924558315876466, 3.102603275759391]
+txt [-0.02677279907547193, -0.32877082661008694, -0.20779216949586923, -0.26023028453648067, -0.1591258814516987, 0.3298263725129047, 0.061367451718399746, -0.1433863604001593, 0.004124005844883085, -0.26682483031989085, -0.026265829948649184, -0.13962004868596223, -0.28007332317185424, 0.04115580816040767, -0.12313281963280892, -0.23707214591068992, 0.15156536238908547, -0.26235241770741335, -0.0566288083573611, 0.3485647857961823, -0.26634105607380176, -0.04751429703880623, -0.20218507303607516, 0.2355482679941553, -0.25859658471582775, -0.25600914735207075, -0.25556707454001765, -0.31892604987499584, -0.2939384249450891, -0.1790793711644084, -0.3353352653770747, -0.16540225952240956, -0.4505851937717548, -0.17265272864604056, -0.34631462204177743, 0.2951376627531722, -0.11896506799781538, -0.180985614391472, 0.18163129175809567, -0.08773491438643596, -0.249216599745557, -0.2505498374812563, -0.20188119311316388, -0.19066737536326783, -0.20909748624988933, -0.1954444536378858, 0.32244006781528317, -0.2966733954719743, -0.26137456396402386, -0.20697508680943258]
+tmp [0.1023328090452443]
+img [0.1795862764120102, 0.8047472238540649, 0.3143230080604553, 0.2789072096347809, 0.37341436743736267, 0.27755001187324524, 0.6213127970695496, 0.3902116119861603, 0.22518301010131836, 0.3694690763950348, 0.2919846475124359, 0.5269368290901184, 0.42874422669410706, 0.6081161499023438]
+mov [0.5120524168014526, 0.4730565547943115, 0.5293117761611938, 0.4741784632205963, 0.4817574918270111, 0.5163148045539856, 0.4380747377872467, 0.5354653596878052, 0.5212475657463074, 0.49526649713516235, 0.5565716624259949, 0.498507559299469, 0.5308517217636108, 0.5171626210212708]
+===== aesthetic1g ========
+rank 1
+audio [-1.8288108141297745, -0.6759312928524365, 2.5574137370966405, 1.8383208815884728, -2.0252230060895156, 1.1962667869233834, -1.0294538522447192, 2.2713936499084975, -1.4237779713758278, -1.4710702219659575, 2.452170082638503, -0.3304546661260816, -1.0201920151373096, 1.5786271425282157, -1.2102885462559816, 0.10698191852621514, -1.5311875464931717, 0.4249619955201297, -0.3190798984552191, 2.25034163778107]
+txt [-0.22699153199305766, -0.3159076802483126, -0.012498322692364148, -0.21908127771380753, -0.035881929374835045, -0.14635258984265384, -0.20074463512947707, -0.2472855505908455, -0.21026996004416468, -0.1062894336538823, -0.089390155890396, 0.37656932462314496, -0.21088974045191738, -0.20223914200754173, -0.06498550045075056, -0.39186757915515247, 0.1543352192328103, -0.29061937736873666, -0.23256635811835374, -0.16363990752633004, -0.21728353142379672, -0.13008633844661152, -0.19610849614289325, -0.14904791684472052, -0.05638533410413491, -0.2750512226137409, -0.23667729861198364, -0.1594169193940948, -0.19538622122454655, -0.24137423484349607, -0.13721207151759127, -0.05527951274054788, -0.1288328610380233, -0.185777276298027, -0.12094413035292656, -0.2031516913319878, -0.11993435732269969, -0.11011834026394292, -0.08535161710381718, -0.075736461348073, -0.1544012912917851, 0.2078989140814027, -0.23089037866320622, -0.18922427663610286, 0.32745413483223346, 0.38788934920608403, -0.09152070829751666, -0.13073641461853158, 0.10599965898506844, -0.14114377120055704]
+tmp [1.7670382360496864]
+img [0.2811048626899719, 0.792843222618103, 0.9471604228019714, 0.4739305377006531, 0.27583447098731995, 0.5651727914810181, 0.48024502396583557, 0.791490375995636, 0.7899420857429504, 0.6972257494926453, 0.5349687933921814, 0.4133777618408203, 0.7729004621505737, 0.7265689969062805, 0.7353468537330627, 0.7200716733932495, 0.7708107233047485, 0.7872346639633179, 0.6380656361579895, 0.6858461499214172, 0.5409926772117615, 0.38533705472946167, 0.7940934300422668, 0.5901650190353394, 0.772854208946228, 0.7256672978401184, 0.45867007970809937, 0.30215778946876526]
+mov [0.5155672430992126, 0.48566707968711853, 0.5336792469024658, 0.42700105905532837, 0.48659124970436096, 0.5009897947311401, 0.48400411009788513, 0.5024213194847107, 0.4595906138420105, 0.5005400776863098, 0.5215820074081421, 0.5194583535194397, 0.4341104030609131, 0.4731839597225189, 0.5321706533432007, 0.4978165626525879, 0.526290774345398, 0.5113369226455688, 0.5067003965377808, 0.5455960035324097, 0.45991048216819763, 0.5560980439186096, 0.44390615820884705, 0.4718344807624817, 0.5144255757331848, 0.5411977767944336, 0.5213464498519897, 0.41612666845321655]
+===== jmoh ========
+rank 1
+audio [1.3707419481124057, 0.3407800748935118, -1.2702760531685824, 1.4199463140039954, -0.991783231314861, 2.721267717662447, 1.018754909568529, -0.9124928207039612, -0.6141197543821107, 2.396499720892854, 2.0779349246489147]
+txt [-0.2243777700926144, 0.2243547629586491]
+tmp [-0.2753767089423713]
+img [0.576204240322113, 0.5870910882949829, 0.7192787528038025, 0.7734888792037964, 0.7252673506736755, 0.7641108632087708, 0.6530882120132446, 0.7548750638961792, 0.6693443059921265, 0.32709261775016785, 0.7676180005073547]
+mov [0.5505480170249939, 0.4704836905002594, 0.5385431051254272, 0.5030953288078308, 0.5066138505935669, 0.4966646730899811, 0.5215956568717957, 0.535018265247345, 0.46425414085388184, 0.4999503195285797, 0.5120910406112671]
+===== heartbreaker_tv ========
+rank 1
+audio [0.5185557910767717, -1.9967934547745625, -1.4477375726909734, -2.1453131971356685, -0.035123610460813456, -1.0641352314594898, -0.3839689183145359, -2.1744332618462283, 1.8075045003073091, -3.8146457858076244, 1.4488410086379473, -0.6730689165701286, 0.4376544859258027, -0.3432509467726961, 1.4488410086379473, -0.3467119132125605, -1.740023103348902, -3.6364270604115734, -2.0093952963903807, -1.419818746466103, -0.09330763825626731]
+txt [-0.1744439084915801, 0.2731627903181637, -0.17214465209047178, -0.2684513735515078, -0.46104251281641273, -0.20385726639461763, -0.23405292578873005, 0.0015762003263271108, 0.0014322002448104775, -0.006596343918103198, -0.17164151372757389, -0.3105703049754639, -0.1602740914869969, -0.1293240212076583, 0.008636053673697554, -0.09798031022294901, -0.21476246639340124, -0.385380807707667, -0.11632539511481894, -0.15635568008660392, 0.054132414894985686, -0.2248957703164706, 0.14299878042287484, -0.1880257588658375, -0.19187907077479563, -0.1572453260685868, 0.36959176176174846, -0.13596531448998958, 0.39399107906181363, -0.04324954034326477, 0.1948719569196859, -0.18103070169368682, 0.22236470697621097, -0.2792655722387605, 0.17562281204061542, -0.3210654150738848, -0.18060479934888762, 0.01998386502791249, -0.23806968991045965, 0.20586114470672534, 0.37318325274557873, 0.05170971911675585, -0.1708490925650319, -0.21063857164780098, -0.2308275489019159, -0.23341789080474512, -0.3842549755371146, -0.22065008547935522, -0.05891571575984563, -0.21408085144046196]
+tmp [0.6951367657386502]
+img [0.649791419506073, 0.8314458727836609, 0.48958736658096313, 0.4461728632450104, 0.7922743558883667, 0.6879564523696899, 0.7896517515182495, 0.49399834871292114, 0.33799901604652405, 0.7927741408348083, 0.42773693799972534, 0.7855870723724365, 0.4368421137332916, 0.6347094774246216, 0.5671775341033936, 0.8793435096740723, 0.5980737209320068, 0.40462344884872437, 0.49792250990867615, 0.5152474641799927, 0.6421263217926025, 0.8193491101264954, 0.9417918920516968, 0.9061253666877747, 0.514509916305542, 0.8652645349502563, 0.5267091393470764, 0.6752976179122925]
+mov [0.4960361123085022, 0.5137370824813843, 0.4504620432853699, 0.529330849647522, 0.4106113314628601, 0.4724719524383545, 0.5427762269973755, 0.5162185430526733, 0.5449045896530151, 0.5226452946662903, 0.5271499752998352, 0.5349675416946411, 0.4828673303127289, 0.5337780117988586, 0.5451543927192688, 0.49280112981796265, 0.5347757339477539, 0.5048969984054565, 0.47118091583251953, 0.4919057786464691, 0.5388750433921814, 0.4330390989780426, 0.49869003891944885, 0.5166035890579224, 0.4547925591468811, 0.47413119673728943, 0.5520332455635071, 0.5282509922981262]
+===== waveum ========
+rank 1
+audio [-2.1495851034285423, -1.3138099499999831, -1.017985430304776, -0.9136182616081203, -0.7066928989416233, 1.7398656522150142, -1.0434233319692003, -1.9763356693404561, -2.479750411165754, 3.206549394805788, 1.4435902072664641]
+txt [0.0004136000058960021, 0.2298757536998084, -0.33448378837143494, -0.11097422980577289, -0.09662855555947115, -0.10893110692228869, -0.016130549747775346, -0.12675544212607223, -0.0785369033803147, -0.23211650121952132]
+tmp [-0.300928579165374]
+img [0.7171934843063354, 0.7005826234817505, 0.803604006767273, 0.46984514594078064, 0.7861400842666626, 0.696560263633728, 0.8034351468086243, 0.5660092830657959, 0.7749999761581421, 0.7593085169792175, 0.8143946528434753, 0.7487215399742126]
+mov [0.4725152850151062, 0.4781056344509125, 0.4770933985710144, 0.5106295943260193, 0.49061211943626404, 0.480629026889801, 0.5057587623596191, 0.48152226209640503, 0.503304123878479, 0.44356685876846313, 0.4807080328464508, 0.5182003378868103]
+===== austingw ========
+rank 1
+audio [2.9682719226869487, 2.5044042773576134, 0.7076423671417942, 3.075245057984269, -1.8516438985606578, 1.8553155300906874, -3.5918043832285185, -1.8928487312340605, 0.12942034312492026, -1.527361894825869, 2.1855018915574527, 2.9682719226869487, -3.3689522822452997]
+txt [-0.10661447275548509, -0.27356134422629685, 0.20413958332251655, -0.161036308640411, -0.15695840293806465, -0.3422222795214935, -0.2070989244401866, -0.13497028331156466, -0.08656641840763205, -0.02375379684618114, -0.2065791242680288, 0.15069468963666335, 0.020066673329137853, -0.21670962816880351, 0.3370153743595254, -0.16016012322697004, -0.45218310004661744, -0.18320503166186158, -0.10677757606998983, -0.2884857536283455, -0.3221937803720121, -0.10046473537882457, -0.1784859342670725, -0.06829933784740173, -0.32118176374499824, -0.09245287744030696, 0.020066673329137853, -0.2887226998903166, -0.3209017508195547, -0.11328170768373959, 0.1570729460314384, 0.17284543925480245, -0.14475093673960096, -0.13808559621195016, 0.2567227451456352, 0.028034836025390253, -0.2746077121980086, -0.18437078070460777, -0.25707838913886477, -0.02237581354125187, -0.14684100455858062, -0.16525030590547, -0.32182609124577755, 0.3548054461149549, -0.27713829641108734, 0.21730368748868834, 0.012821615646652183, -0.18518077528986912, -0.2314528671276958, -0.28395170652876656]
+tmp [0.9081470877546536]
+img [0.5945480465888977, 0.5867146253585815, 0.8028717041015625, 0.428480327129364, 0.45145687460899353, 0.47425588965415955, 0.5005773305892944, 0.49976539611816406, 0.4969266951084137, 0.5371826887130737, 0.5759707093238831, 0.645695686340332, 0.39870402216911316, 0.5617033839225769, 0.385638564825058, 0.4768977165222168, 0.7794297933578491, 0.7850531339645386, 0.4669128358364105, 0.4557543396949768, 0.7971664667129517, 0.5927562117576599, 0.44905519485473633, 0.3171502649784088, 0.6502020359039307, 0.5626840591430664]
+mov [0.46007052063941956, 0.4985155463218689, 0.5252097845077515, 0.5047534704208374, 0.5128799080848694, 0.4985843598842621, 0.4858403205871582, 0.4593416154384613, 0.49689164757728577, 0.44509631395339966, 0.5046147704124451, 0.4858376383781433, 0.47032874822616577, 0.4371179938316345, 0.5000985860824585, 0.5215821266174316, 0.45139703154563904, 0.47782716155052185, 0.46296462416648865, 0.4905397295951843, 0.44568854570388794, 0.45839768648147583, 0.503028154373169, 0.4023658335208893, 0.5380257964134216, 0.5031787157058716]
+===== 1perkyomg ========
+rank 1
+audio [-1.6526582727424155, 2.999908655224697, 2.484386764151128, -0.0944701965546, 2.721267717662447, 2.86875313668917, -1.8000087481277869, 0.6706111839382066]
+txt [-0.17281602065711235, -0.15359223347437392, -0.17765357064976867, -0.20239629930831388, -0.17111051389857354, -0.0983439848936656, -0.1890081557082565, -0.17594408110494267, -0.27371824509127907, -0.08874431672031918, 0.07563022936979323, -0.16094202034018285, -0.4731553796127479, 0.013091986994143942, -0.18374793517621715, -0.0633122201144351, 0.1748415249808538, 0.3548054461149549, 0.20083449478381535, -0.0794612640982536, 0.1190375640530996, -0.19899293683413813, -0.11280001214790952, 0.3548054461149549, 0.22708342608708695, -0.0813221476378377, -0.13260091248948452, -0.15175537080397464, 0.1177259795021153, -0.2186990152042017, -0.3270697026084929, -0.1416989378104041, -0.014815951017803667, -0.14290823942649625, -0.076158789766649, -0.05151110691769713, -0.2672187290253915, -0.13654439390751638, -0.14129138470347974, -0.14176687786997502, -0.38737419203943163, -0.10825391441313496, 0.1190375640530996, 0.21245688447164293, -0.09154018904217079, -0.2604725845401756, -0.1424146967360558, 0.338370320227332, 0.17357718038792055, -0.1924799044493374]
+tmp [-1.2383169546420019]
+img [0.42635074257850647, 0.8580940961837769, 0.6032770276069641, 0.6194748878479004, 0.6763655543327332, 0.5370855927467346, 0.6270359754562378, 0.6255793571472168]
+mov [0.47456711530685425, 0.47141194343566895, 0.46074962615966797, 0.48515596985816956, 0.49044495820999146, 0.4869650900363922, 0.5224398374557495, 0.4741138815879822]
+===== novices ========
+rank 1
+audio None
+txt [-0.017041612418551882, -0.23296498917799707, -0.07797099790388634, 0.2874962365847292, -0.14003454814308078, -0.0983699275355095, 0.262810707473094, -0.20165013744281712, -0.008933259408026344, -0.23802108784478299, -0.2989696504436302, -0.1404305687339924, 0.20083449478381535, -0.3518879216071706, -0.21971111660157971, -0.1031868597008812, -0.22090739571623735, -0.14495596851068562, -0.058099017234467934, 0.5044718260440894, -0.1138569586031679, -0.18094093055561253, -0.1267607835246347, 0.014144435812570858, -0.19621725573312782, -0.31358509468852874, -0.2197156508862793, -0.17071568450857094, -0.1710575683550448, -0.0957827614941597, -0.08282483541779087, -0.10829122354311164, -0.21955306579754655, -0.1376865052700171, -0.1935249362122408, -0.24014698056925765, -0.12525951971493304, 0.14080497346229323, -0.1928241590300803, -0.09132862748042439, 0.24286474739347658, -0.08022435897500314]
+tmp [1.8277200850053148]
+img [0.5674666166305542]
+mov [0.556137204170227]
+===== humbabeast ========
+rank 1
+audio [-1.1014943657571419, 1.4488410086379473, 1.3946276904645873, 0.6777664051637089, -3.6384280748248345, 1.9153589332292147, 0.9409425064156238, -0.3872478498905307, -0.10726272255850905]
+txt [0.014074072310845735, -0.16299027498367002, -0.16469285016398372, -0.015152489908396082, -0.049402845433014084, -0.02967669784632727, -0.020313978531186314, -0.29513852117870365, -0.23415515373678214, -0.21444249042591984, -0.21551284250155112, -0.16463795975485196, -0.20387282695925105, -0.0944065749110492, -0.12083762215502403, -0.05505758396206932, -0.2526298889949352, 0.22368466559384917, 0.05122900088789235, 0.07563022936979323, -0.03442651974738621, 0.012496402617394773, -0.04272561837175998, -0.12712906325796647, -0.20723339699941734, -0.27100860806862725, -0.28470900842666713, -0.2668738527707434, -0.2913854085442844, -0.22351423295190112, -0.049319594742886226, -0.21975540694310733, -0.07171888529218594, -0.1608921790762398, -0.07064524641261936, -0.16810878845155264, -0.24733262307625745, -0.2559530381403022, 0.47310033031081433, 0.26135316259769775, 0.34931682103365413, -0.2397151448509099, 0.12869211927939458, -0.16631772680362508, -0.22836481626353786, -0.09327115900231474, -0.06475381688601721, 0.051750506391324884, 0.11309860244710394, -0.2767803184225572]
+tmp [2.161827703997139]
+img [0.7616899013519287, 0.5917383432388306, 0.7044161558151245, 0.49095869064331055, 0.4788028299808502, 0.6847741007804871, 0.5998600721359253, 0.2612624764442444, 0.659276008605957, 0.3489319682121277, 0.5810550451278687, 0.26571187376976013]
+mov [0.5127346515655518, 0.5411133170127869, 0.5274938344955444, 0.5342925786972046, 0.5348190069198608, 0.414503276348114, 0.5088628530502319, 0.5042060017585754, 0.5432888865470886, 0.4909893870353699, 0.5118796825408936, 0.4828264117240906]
+===== fadedabeast ========
+rank 1
+audio [0.6655231769636291, -1.613306900510782, 2.203574017194745, 2.31143910475472, -0.8034875163471467, -1.2922631236435622, 1.241528731432654, 1.6982803097358175, 2.643028442343553]
+txt [-0.16648085078689287, -0.12723991031480125, 0.18012544182337073, 0.3548054461149549, 0.14840417009307727, -0.022756261971851953, 0.017607254862613234, 0.5062262348004092, 0.396496016223609, -0.1959831797121341, -0.10777869093194165, 0.43686093191413233, -0.22814623373503345, -0.347205061777101, -0.097502049791022, 0.020129079630579447, -0.0656689090751942, 0.15800051740159346, -0.27255212366347265, -0.2968060329807883, 0.27378711951536205, -0.18266864894006296, 0.21382680616870778, -0.14340666441914468, -0.1556621975062312, -0.11721028459479019, -0.11645968891694501, -0.05638533410413491, 0.0635651944660451, -0.05065739018202662, -0.14032408586970804, -0.2554372993980181, 0.02227532102012525, -0.22213396085789416, -0.03080643613818202, -0.10995745422934372, -0.07162592601288982, -0.26165189199660394, -0.08921741193213989, -0.1860156034943443, -0.20886456151234295, -0.12761037005972492, -0.26165189199660394, -0.2184852417453324, -0.2650697999577454, -0.24636409755186844, -0.15637117440920503, -0.1393828182542641, -0.03702478899332749, -0.21190645543467618]
+tmp [1.3704503212600636]
+img [0.4198978841304779, 0.7360891103744507, 0.7808479070663452, 0.753038763999939, 0.3667553961277008, 0.30689752101898193, 0.5942786931991577, 0.35360950231552124, 0.424278199672699, 0.5038073062896729, 0.3523518145084381, 0.7044882774353027, 0.6827844381332397, 0.5336143970489502]
+mov [0.4958171844482422, 0.44974738359451294, 0.47253894805908203, 0.5132678747177124, 0.5392780303955078, 0.4729124903678894, 0.5084484219551086, 0.4626255929470062, 0.5242698192596436, 0.5083937644958496, 0.5413743257522583, 0.46122241020202637, 0.5530601739883423, 0.4574536681175232]
+===== dyl0210 ========
+rank 1
+audio None
+txt [-0.15119215245174153, 0.2068807238390548, 0.40307288770889527, 0.1367842704825149, -0.19063141052767515, -0.3044131829418225, 0.6886035161531554, -0.33907511569215615, -0.3030761316210821, -0.17929517419185037, 0.004009005369427266, -0.2150971823632271, 0.08213334071801208, -0.06284899961029305, 0.08213334071801208, 0.1677461236661032, -0.07968894414719616, -0.19998748645186662, -0.06586011566715137, 0.007306032498343987, -0.30770213709595945, -0.05611700195188404, -0.1562697976094858, -0.23400033219378563, -0.06603814910671087, 0.0533499702091517, -0.024329199986978314, -0.05517571363160559, -0.12969653890407262, -0.271624199335248, 0.03377801123015299, -0.19435739526946708, -0.1150516627046785, -0.24532442513440583, -0.19193801012883685, 0.2926897484698845, 0.01869934485725952, 0.27308890943286196, -0.2491899908661325, 0.49556489334235254, -0.09818840992967715, -0.2008545355363504, 0.10861573591766756, 0.046312516004931685, -0.13467892325011976, -0.47414414610082534, 0.07495307059441124, -0.14439777773860663, -0.20192156173244644, 0.2057839327145248]
+tmp [-0.9376362314681854]
+img [0.5064951777458191, 0.5295907258987427, 0.567522406578064]
+mov [0.5194685459136963, 0.5241031646728516, 0.5005835294723511]
+===== spcfoxtv ========
+rank 1
+audio None
+txt [0.25726540759829025, -0.38129477945833473, -0.3654247671346069, -0.07782665915500314, 0.03442796017411291, -0.14357372137913108, -0.32797659522933786, -0.08112718642939759, -0.20714311500617158, -0.3235993089464234, -0.379734765477604, -0.061265956379149784, -0.13885225944129112, -0.38881594626679955, -0.34932465524832124, -0.09566825958828158, -0.11143236323306387, -0.3290177043453126, -0.22793912429953248, -0.21528781235595404, -0.2997207892302696, -0.20958442235502436, -0.41784231631660107, -0.16384777465947414, -0.34932465524832124, -0.04715361508596258, -0.22942992670863022, 0.1956432620711747, -0.2105013820791348, -0.26920449811978475, -0.24229545381347956, 0.0004136000058960021, -0.3872971325147699, -0.1094118164071513, -0.2623945342964803, -0.14304039248911604, -0.34932465524832124, -0.39757354967662023, -0.3874635426518793, -0.16377831072459598]
+tmp [0.693977695550951]
+img None
+mov None
+===== dooran ========
+rank 1
+audio [-1.858911293767961, -0.9105368191850144]
+txt [-0.05240090714989476, 0.49934673829749937, 0.4877031325606761, 0.31156186987835127, 0.020066673329137853, 0.30644708977753826, -0.24282070439021078, -0.1353852130604394, -0.19421360687037495, -0.18494561324706982, -0.3621593040620072, -0.20077994858432144, -0.15420907162507974, -0.19634136342957445, -0.1848520581758229, -0.15727659862488988, -0.19553652775332378, 0.4832240598936236, -0.12463059149068675, 0.028034836025390253, -0.05019053355101238, -0.2070810946348417, 0.3986852651815918, -0.244953792303477, 0.21821322514241248, -0.014643701674895431, 0.12696026396617172, -0.15821465006852314, -0.1326964515285019, 0.21584896130964945, -0.18995645689244867, -0.17541260135465767, -0.050701978800468055, -0.16902301212871093, -0.13963624738265332, -0.13458730935094002, 0.0037894445346604456, -0.3612221504848481, 0.41097173596709485, -0.044953968941032395, -0.05135032063978465, 0.32474496818920057, 0.22368466559384917, -0.1534119757820945, -0.12675194812949314, 0.33050176917264046, -0.1684004429081207, 0.2191974614713592, -0.1259297558663926, -0.09562776711753625]
+tmp [0.39353504923888977]
+img [0.646424412727356, 0.734097421169281]
+mov [0.4707825779914856, 0.5283012390136719]
+===== 1oof ========
+rank 1
+audio None
+txt [-0.19959552083846357]
+tmp [-0.22957117034651775]
+img None
+mov None
+===== tv_deka ========
+rank 1
+audio None
+txt [-0.36414698413874147, -0.09069740210959311, -0.36414698413874147, -0.11547574816348286, -0.3015681529091731, -0.39053494591600796, -0.3335079108993088, -0.25835430266331116]
+tmp [-0.5807320342233049]
+img None
+mov None
+===== truepain_ ========
+rank 1
+audio None
+txt [-0.05200747922023489]
+tmp [-0.22957117034651775]
+img None
+mov None
+===== conankun ========
+rank 1
+audio [-0.08901873798486197, 2.0065205902761916, 2.765091069834089, 0.7008671389980599, 0.0, -0.5983555852570569, 0.43950048547494897, 2.770667226916764, 2.2710398187555785]
+txt [0.1255011066834066, -0.20357988829872886, -0.11039517991663754, 0.43432682673012396, 0.3072720491491606, -0.20215638184796578, -0.2311453910825696, 0.06023796841503055, 0.19399088214659946, 0.13488011417550713, 0.5296744097078897, -0.07140332163639584, -0.17888389398504706, -0.10916989543683366, 0.3060662986208513, 0.15821762863113342, 0.5296744097078897, -0.14182054672783398, -0.1368236943664189, -0.46033789009368464, -0.27424492669674877, 0.09252418972677678, 0.5630160134790575, 0.2596239168975401, 0.27369257017520787, 0.17116789198756813, 0.31178377272555186, -0.16879805517893307, 0.21265486391835545, -0.19057885607312902, -0.17510412467435701, 0.035609362324733454, -0.03567250237181739, -0.034376424928986876, -0.17319476058398342, 0.4824606379652815, -0.11413634431217351, 0.2113953338346093, 0.3164059262950916, -0.19257897690122217, 0.21450714831916975, -0.3351734421689248, 0.22968120821822474, 0.3856077130976392, -0.11126849633773166, -0.10381112852411907, -0.13402795442513882, 0.2708658193764209, -0.1909932845427097, -0.22745396994378383]
+tmp [1.7954150897659795]
+img [0.7052931189537048, 0.7354890704154968, 0.6175040006637573, 0.7412480115890503, 0.6179617643356323, 0.7032231092453003, 0.6418278217315674, 0.7078645825386047]
+mov [0.5027151703834534, 0.4599591791629791, 0.4835399091243744, 0.5120866298675537, 0.41641655564308167, 0.5201564431190491, 0.48517289757728577, 0.5021767616271973]
+===== alert_tv ========
+rank 1
+audio [2.062354176940116, -2.5483115330122157, 3.2743982330509365, 0.4193178255821271]
+txt [0.295241451270347, -0.24611524308901955, -0.20544477313714726, -0.18597073770484454, -0.19552316080197446, -0.21165663504169976, -0.21451685918026248, -0.34703875084386254, -0.1561914816626514, 0.053616840962857404, -0.299642292858039, -0.2996338256126109, -0.3035127812346551, 0.06643922872715478, -0.30139941602554166, -0.2894803122160619, -0.2550124959163218, -0.17013762728730264, -0.3252731133855268, -0.09849707502678806, -0.23433678267532465, -0.25602715930720477, -0.2168681158068674, 0.04188212108745983, 0.06643922872715478, -0.3260679825705629, 0.2440007726581091, 0.06759412451614957, -0.20052637327102965, -0.2071367674010421, -0.2084597468941223, -0.3280148047361583, -0.05109002999549704, -0.2977460591344552]
+tmp [1.8131280284746008]
+img [0.6994585990905762, 0.5869436264038086, 0.6717963218688965, 0.4976453185081482]
+mov [0.4385720193386078, 0.4496949315071106, 0.4518321454524994, 0.5107337832450867]
+===== ryderrz ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== joltscs ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== zevrooo ========
+rank 1
+audio [1.239804598624441]
+txt None
+tmp None
+img [0.8457366824150085]
+mov [0.5467308759689331]
+===== m1nat0 ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== boboskiii ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== bigern_tv ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== sakul_tv ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== cmxcsgo ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== 1cojomo ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== svnxd ========
+rank 1
+audio None
+txt [0.33161837406719574, -0.2999586155184379, 0.014914076438283571]
+tmp [-1.2847177990110448]
+img None
+mov None
+===== brian2k_cs ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== jerbear1g ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== 1yenoh ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== tokieze ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== jstartv ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== wellycsgo ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== aggroh_ ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== universeftw ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== predd7661 ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== itsmebemar ========
+rank 1
+audio None
+txt [0.044801892395024176, -0.14230313340242678, -0.16312267111646733, -0.18393869800784682, -0.24482877652675814, -0.21935785415318537, -0.08965400381818069, 0.09950883020475368, 0.13565468654787027, -0.18093318752655743, -0.18685275594677428, -0.05769111561880704, -0.23419902981034252, -0.12564687984449865, -0.07753534011674389, -0.08504922899920365, -0.07724959266523936, 0.03107049931806434, -0.1921030017184913, -0.19091279525724955, 0.20640973129662304, 0.061842342007328056, 0.040911305268372854, -0.14848179615625662, -0.29941957103646916, -0.16616600334215353, -0.24628726373905077, -0.24391113204760773, -0.19461804461016277, -0.12433645493080014, 0.3980357641710283, 0.03985487465572412, -0.04522186504817023, -0.12222332623408814, -0.07352149993499059, -0.28045985536064083, -0.2201652849752671, -0.0004749200089266064, -0.2149206780807529, -0.1930435076621265, -0.08668411893615167, -0.06435932615501004, -0.23744940573544146, 0.5103230419976152, -0.13572436629598597, -0.12222332623408814, -0.16495071355881719, -0.1753221091626377, -0.2515836391613181, -0.0912631712762631]
+tmp [1.090608028256903]
+img None
+mov None
+===== fkmdead ========
+rank 1
+audio [2.0712774986671656]
+txt None
+tmp None
+img [0.8530548810958862]
+mov [0.5512337684631348]
+===== honglyy ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== joshinthebox169 ========
+rank 1
+audio None
+txt [-0.2572654075982902, -0.19319030789665043, -0.2190585269205009, -0.30769435578357784, -0.28284461175809833, -0.19500602256028304, -0.1256406151853763, -0.206877489477592, -0.1591047885068706, -0.24854482347263526, -0.17796679341164107, 0.03013347995978981, -0.20682371837622812, -0.18233617580366937, -0.21814445317102285, -0.2593254693290577, -0.1861301896314066, -0.21213273950111824, -0.24276541756024494, -0.3125142823649593, -0.22771970139745767, -0.10677504888041883, -0.10514002826960782]
+tmp [-0.020523440362260753]
+img None
+mov None
+===== kanpeki_xd ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== jamzwithyamz ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== unbrokenstreams ========
+rank 1
+audio [-1.5153315595017751, -1.0478925206830536]
+txt None
+tmp None
+img [0.5661547780036926, 0.5876677632331848]
+mov [0.44718724489212036, 0.4721139371395111]
+===== denya_cs ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== feedaleelol ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== st0oker ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== iamthebuffalo21 ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== tekkys ========
+rank 1
+audio [1.631536389179204, -1.2903711290785704]
+txt None
+tmp None
+img [0.6694545149803162, 0.7316821813583374]
+mov [0.4970604479312897, 0.49408191442489624]
+===== jonnyza ========
+rank 1
+audio None
+txt [-0.2847123961623267, -0.23881660663523577]
+tmp [-0.3165955570776719]
+img None
+mov None
+===== moonytv ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== codetv ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== wrangle ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== skrubwreckxor ========
+rank 1
+audio None
+txt [0.5359543689592638, -0.24828018242910543, -0.3796608438869484, 0.07795561455147718, 0.241850559311024]
+tmp [0.8443957342696143]
+img None
+mov None
+===== leifzera ========
+rank 1
+audio None
+txt None
+tmp None
+img None
+mov None
+===== bert_cs ========
+rank 1
+audio [0.30784842748926483]
+txt [-0.5258302498832073, -0.03279477890921363, -0.23225604516913867, -0.1661907332903468]
+tmp [-0.7477550079448634]
+img [0.8992606401443481]
+mov [0.4930412173271179]
+===== mj4k_ ========
+rank 1
+audio None
+txt None
+tmp None
+img [0.7125376462936401, 0.5871219038963318, 0.6496531367301941, 0.5262840986251831, 0.6043789982795715, 0.5570120215415955, 0.8099996447563171, 0.7608556151390076, 0.5588947534561157, 0.6890245079994202, 0.6575425863265991, 0.6655399203300476, 0.6595498323440552, 0.645480215549469]
+mov [0.5212234854698181, 0.4489326477050781, 0.43350428342819214, 0.48982948064804077, 0.4453098177909851, 0.503443717956543, 0.536431074142456, 0.47438234090805054, 0.5063897967338562, 0.49429208040237427, 0.4608175754547119, 0.48402005434036255, 0.4979986250400543, 0.515623927116394]
+===== jack1 ========
+rank 1
+audio None
+txt [-0.16646151745866775, -0.160085285573487, -0.18475430830981107, -0.20488411440340357, 0.05216754774208417, -0.2989536174642975, -0.18344366547518284, -0.1741425513624126, -0.15451641521406456, -0.11022975768625198, -0.09927012166694449]
+tmp [0.298299242668382]
+img [0.40650907158851624, 0.4905451834201813, 0.3840004801750183, 0.5083060264587402]
+mov [0.5187777876853943, 0.46759772300720215, 0.4600096642971039, 0.509015679359436]
+===== cjxy ========
+rank 1
+audio [-0.448152985209109, -1.4565862808886743, 2.7704869221984905, 0.31940812127741264]
+txt None
+tmp None
+img [0.45608362555503845, 0.6584507822990417, 0.26659420132637024, 0.34465283155441284]
+mov [0.4649714529514313, 0.5462911128997803, 0.5015033483505249, 0.5388476252555847]
+===== joelxyz ========
+rank 1
+audio [0.7008671389980599, 2.2710398187555785, 2.8354178557172056, 2.999908655224697, 0.42759822022884]
+txt [-0.17941033535845807, -0.2566525616512624]
+tmp [-1.2380649430355803]
+img [0.6793419122695923, 0.6209090352058411, 0.45307832956314087, 0.8368074297904968, 0.5567042231559753]
+mov [0.5020636916160583, 0.5040937662124634, 0.47880083322525024, 0.47886523604393005, 0.49756184220314026]
+===== nopecsnosekx ========
+rank 1
+audio [0.3770441893494728, -2.350072624896218, 1.398149009366151, -1.23848387203363, 0.3692179745217529]
+txt None
+tmp None
+img [0.7326255440711975, 0.6850634217262268, 0.5606821775436401, 0.5713784694671631, 0.6159425377845764]
+mov [0.5509216785430908, 0.5300853848457336, 0.47372889518737793, 0.4849909842014313, 0.5236217975616455]
+===== xirttv ========
+rank 1
+audio [1.0601018055768456, -1.7565735343484155, -1.8897761042159513, -0.35768531980675644]
+txt [-0.3612408680521897, -0.11711367380945231, -0.1461415453874428, -0.12890110357652632, -0.17951307818501938, -0.1539151343410516, 0.05144494310373096, 0.02723008241611886, -0.2753029280538552, 0.37014725519440905, 0.21385897109999885, 0.00928766676285214, -0.18962363773447236, -0.03443080101581746, -0.2883411885051776, -0.24792708391116774, -0.33089624062836487, -0.2115657855398635, -0.24146697311187076, 0.18635585525971124, -0.12740746756542826, -0.0912507454420615, -0.10485817284365027, 0.32056934656689234, -0.2747376933065691, -0.4049559673542489, -0.2476388648858911, -0.26165189199660394, -0.22093221611310201, -0.1621965320323557, -0.37194460559876585, -0.04260964560485579, -0.14956941251856462, -0.006303340870334353, -0.28690884845432657, 0.023809364702233122, -0.2840651640119891, -0.06058004030242377, 0.03189950474536277, -0.1712341753124686, 0.04210762047942728, -0.1824107121553158, -0.3148771109094629, -0.3171312617404891, 0.011112914366095095, -0.3000755273650972, -0.48728597787077893, -0.20125224774173672, -0.2786046412222137, -0.05337026464839954]
+tmp [0.12512941122485402]
+img [0.7674810886383057, 0.7089039087295532, 0.5100420713424683, 0.5252827405929565, 0.6910755038261414]
+mov [0.541811466217041, 0.4957410395145416, 0.5243979692459106, 0.5212867856025696, 0.5184796452522278]
+===== qtemperr ========
+rank 1
+audio [-1.0751232774686694, 2.513315065948621, -0.415725715156947]
+txt None
+tmp None
+img [0.6681446433067322, 0.7775666117668152, 0.5777321457862854]
+mov [0.49387621879577637, 0.5150736570358276, 0.5093429684638977]
+===== asuna_csgo ========
+rank 1
+audio None
+txt None
+tmp None
+img [0.6086620092391968, 0.2958330512046814, 0.475165456533432, 0.9106899499893188]
+mov [0.5116506218910217, 0.49652060866355896, 0.43424591422080994, 0.4699583649635315]
+===== zfranks ========
+rank 1
+audio [-1.6044541950075277]
+txt None
+tmp None
+img [0.5308834314346313]
+mov [0.4490739703178406]
+===== clasia ========
+rank 1
+audio [2.429912157409958]
+txt None
+tmp None
+img [0.6259503960609436]
+mov [0.5219553112983704]
+===== 1sparx ========
+rank 0
+audio [-0.5587358934659835, 1.946184462986466, 2.483823812649169, 2.2285024397798416, -0.14388773758988554, -0.9922393047689315, -2.0267774947698802, -0.4007589818860642, 2.7261122951004384, 2.298949504193154, 1.946184462986466, 2.4807323620600252, 1.3729726168156504, 2.2713936499084975, 2.721267717662447, 1.5737672742712023, 1.4435902072664641]
+txt [-0.42494534590799826, -0.020545122647720796, -0.19722239779554654, -0.29728565942202867, -0.16855203353607354, 0.02518013034763148, -0.1652586828376767, -0.10869729617474498, -0.232383063742799, -0.3218342180997757, -0.2781233162792311, -0.23518569254085184, -0.293462180616474, -0.18376572450629072, -0.2034400503417852, -0.19914313507833797, -0.36930073269900887, -0.1393478490031292, -0.19344911094492603, -0.24925958038046678, -0.31401572420048596, -0.28678668966064047, -0.02597013952760286, -0.30234798218516606, -0.26726311212241594, -0.22758699675130922, 0.16128672766320226, -0.2695591755234184, -0.14830494613260367, -0.30392350936922363, -0.14010794698959375, -0.2597370427979353, -0.14821050908785055, -0.3206004112572333, -0.20928941077504645, -0.2840036600358297, -0.20036213456370203, -0.13630930339874334, -0.13983244198334904, 0.26891915550477646, -0.051664048627764296, 0.3635414578588232, -0.3108251577906638, -0.13374488968040332, -0.1762243221930862, -0.14863962378828371, -0.1623263024720428, -0.18487840197585287, -0.07548554306273868, 0.27441802298907425]
+tmp [-1.8743412707327443]
+img [0.775611162185669, 0.5321272015571594, 0.4047834277153015, 0.6265343427658081, 0.5623499751091003, 0.6539372205734253, 0.7074193358421326, 0.6763664484024048, 0.6106492280960083, 0.5549882054328918, 0.6462649703025818, 0.6419762969017029, 0.7829955220222473, 0.7751339077949524, 0.4902852177619934, 0.6782107353210449, 0.653765082359314, 0.4146687984466553, 0.6812444925308228, 0.2016381025314331, 0.48866361379623413, 0.8003832697868347, 0.6177912950515747, 0.7647489309310913, 0.6524249315261841]
+mov [0.5220724940299988, 0.49459943175315857, 0.5244709849357605, 0.43557992577552795, 0.5220031142234802, 0.5332814455032349, 0.5309576988220215, 0.5168002247810364, 0.526961624622345, 0.4999806880950928, 0.45285147428512573, 0.4894569516181946, 0.4907773435115814, 0.525748074054718, 0.49682754278182983, 0.551581859588623, 0.5404919385910034, 0.5041826963424683, 0.4781593680381775, 0.4890979826450348, 0.5256600379943848, 0.494495153427124, 0.5160596966743469, 0.5215477347373962, 0.45656681060791016]
+===== cyanoodle ========
+rank 0
+audio [0.0, -1.0215787154364973, 2.7135246283063217, 2.396238235462932, -0.5531667989697651, -0.32051599937195374, 0.9438664486656849, -0.30530969505616573, 1.946184462986466, 1.1952572480148986, -1.0872843385680642, -1.8108949310871294, 0.4272215272831215]
+txt [0.09935324629111716, -0.25441364683963413, -0.1941177894276204, -0.2549237084173236, -0.13797591544344212, -0.3722185112621376, -0.39515619662269946, -0.2788452545415013, -0.2978903724092263, -0.2788452545415013, -0.1469955957790982, 0.03481643656841382, 0.5742647914503297, -0.3722185112621376, -0.14357372137913108, -0.13425408863663596, -0.1306078272630479, -0.23150078329424187, 0.19209250547906595, -0.01853149031618397]
+tmp [-1.639060067000665]
+img [0.5307197570800781, 0.5945599675178528, 0.6399770975112915, 0.5136645436286926, 0.4754939675331116, 0.6491917967796326, 0.30938979983329773, 0.6415542364120483, 0.5648931264877319, 0.820388674736023, 0.6162573099136353, 0.5870971083641052, 0.5065284967422485]
+mov [0.466238409280777, 0.42619410157203674, 0.5198372602462769, 0.47584718465805054, 0.501484751701355, 0.4974820613861084, 0.4779036045074463, 0.5037630200386047, 0.4911554753780365, 0.5254454612731934, 0.43987852334976196, 0.5224083662033081, 0.547344446182251]
+===== isopandaman ========
+rank 0
+audio None
+txt [0.13059690080208514, -0.07536220782269758, -0.1938050665314798, 0.27632573623516415, -0.07245347878815812, -0.01829639038801823, -0.11837949113738645, -0.23557564428303113, -0.11224582163167293, -0.09659283233215665, 0.1834455209985249, 0.1935392292161207, -0.10679257875794852, -0.2569728247030459, -0.29752920652052295, -0.17813177406968647, -0.06120838243742263, 0.020671536068860207, -0.18535272235805722, 0.10530560573715739, -0.15823292396367877, 0.10582224238737666, 0.4377929103962125, -0.10109080230579721, -0.1698921821446106, 0.20195300007004374, 0.10330296856801285, -0.08280127506968706, -0.04536045609651507]
+tmp [-2.756509768929341]
+img [0.46194690465927124]
+mov [0.47498399019241333]
+===== frownnn ========
+rank 0
+audio [-0.9729143083405337, -0.2690920866547626, 1.0383939562165454]
+txt [-0.11000126644495238, -0.1670447934779518, -0.13926826412794577, 0.21033240542310144, 0.29136387795116264, -0.16401308027644343, -0.25934702778435725, -0.06421305513489194, 0.19368458291748347, -0.21004299232654156, -0.16904609624037217, -0.1106160929663063, -0.1561758668239407, 0.4260023349588309, 0.35696727862402716, 0.45721336064788154, -0.20963226401964, -0.10658306369658024, -0.12838927175016396, -0.21335138491360361, 0.4451887117005577, -0.14759133533231394, -0.14132113270870308, 0.32873614617923225, -0.0901385815131147, -0.18958202598619678, -0.15995336466670415, 0.31078447080959687, 0.17477376999628688, -0.08584467917625745, -0.26467564678993366, 0.33605821661445784, -0.24366312331901696, -0.20376402477315075, 0.2316978017854307, -0.13468225832814565, -0.2931542925365663, -0.3124770274470949, -0.17337538979747913, 0.0636518820924965, 0.5383560058839248, -0.023241846181805043, 0.10389134441964898, -0.13464874685522935, 0.25439413449804454, -0.09964797456950479, -0.25889931570623864, 0.23177847525762746, 0.6282612436202313, -0.1578236996744629]
+tmp [-0.13132220174344414]
+img [0.6434504389762878, 0.7476697564125061, 0.8033722043037415]
+mov [0.5631793141365051, 0.4796343743801117, 0.5227689743041992]
+===== wholewheatpete ========
+rank 0
+audio [-0.4709137248685865, -2.515625620241298, -1.3579726337336697, -1.6156909390616503, 1.500908924972317, -1.154434696965316, -0.4828473109775918, 0.5106549607397208, 1.7754167156088847, -1.5659816083309182, -2.35410547711241]
+txt [0.2917277008746909, 0.25098744575412835, 0.32034434758129954, 0.38808351689538134, -0.18417012696836602, -0.2862464727640647, 0.4174993010978388, -0.1157895146667861, 0.08385670512862659, 0.39521096028915514, -0.23881486199428628, -0.19779514738247425, 0.3024181622893417, 0.17702928783810726, -0.04576478586764977, 0.42535733627798666, 0.58183643306922, 0.27703106425238705, 0.06687511254794438, -0.1102405102860271, 0.537516914758521, -0.34989975683541596, 0.45598678806450116, -0.25753168991694264, 0.21461315909823986, -0.02515148581283539, 0.21792802113137455, 0.5665806317734599, 0.21293573971844018, 0.09438624970033144, -0.055132160526723324, 0.25787456007623993, -0.01152172745761355, 0.26037002513215884, 0.24253205599937774, -0.37099477807696896, 0.2789765757016788, 0.1955005460598833, 0.3125452258321196, -0.25167161721090214, -0.26552169897963224, 0.2721526464016037, 0.5820948990834238, 0.21846192572117404, 0.28415980853212425, 0.1588148043477729, -0.37905918595107485, 0.3974053156728139, 0.2846174993616611, 0.375578707851912]
+tmp [-1.4975349173301487]
+img [0.5457533597946167, 0.5719572305679321, 0.42471861839294434, 0.729252815246582, 0.7587398886680603, 0.5764442086219788, 0.6385143995285034, 0.584738552570343, 0.5684136152267456, 0.46136197447776794]
+mov [0.33322733640670776, 0.4457773268222809, 0.504247784614563, 0.46125417947769165, 0.4545910358428955, 0.49061256647109985, 0.4648628234863281, 0.45277634263038635, 0.47529569268226624, 0.46870413422584534]
+===== phightme ========
+rank 0
+audio [-0.8047517130492844, -0.5100150391941733, -0.43685757679367965, 0.4504238358778742, -1.529478501865944]
+txt [-0.14873253541423673, -0.36182874723495057, 0.011016711421603405, -0.14746436698094387, -0.21013374641187932, 0.2977029988414098, -0.25474983579305316, -0.2556546089193775, -0.3076461118530931, -0.20207342032970266, -0.18580576070037683, -0.09422412978173966, -0.263840759205984, -0.1763252622728829, -0.31813988048355113, -0.16861515993995074, -0.2909059091043068, -0.18915667531234545, 0.11492006868557987, -0.3842278380234442, -0.36251992632001057, 0.12738666338019605, -0.1309552285106716, 0.0049888103468620215, -0.19769311642440268, -0.24481001823411977, -0.4017210893573517, -0.19302965945223183, 0.008234326526465613, -0.08028681944347692, -0.23896185940656178, 0.133111197611027, -0.21217278676197632, -0.27431922677118964, -0.3212179615489133, -0.27184624844098976, -0.3518589634212112, -0.18951248508831547, -0.22666954553257404, -0.33673253941187903, -0.3262631218402572, -0.28068817039906185, -0.15997139954542808, -0.22215599041894085, -0.24402850135970158, -0.17024306712633916, -0.2401369574430495, -0.17486804667215916, -0.09910114676239465, -0.3482110661349203]
+tmp [0.2000152421728633]
+img [0.29338544607162476, 0.6395655870437622, 0.4784684181213379, 0.32410186529159546, 0.5469194650650024, 0.4529988169670105, 0.45125213265419006, 0.3392226994037628, 0.5408326387405396, 0.4411892890930176, 0.40783268213272095, 0.49504461884498596, 0.39455050230026245, 0.30142930150032043, 0.6161748170852661, 0.40570610761642456, 0.4316979944705963, 0.49614405632019043, 0.41688618063926697]
+mov [0.5019158720970154, 0.4858984053134918, 0.5129408836364746, 0.4586796760559082, 0.49546194076538086, 0.46062350273132324, 0.4422042965888977, 0.4785478711128235, 0.48864150047302246, 0.5274298787117004, 0.5252779722213745, 0.4767356514930725, 0.4448201060295105, 0.5055030584335327, 0.4900819659233093, 0.48538461327552795, 0.5150981545448303, 0.5209465026855469, 0.5054823160171509]
+===== imskizzy ========
+rank 0
+audio [1.9105417641375122, -1.1074317485204839]
+txt [-0.08969472557450248, -0.2720220590169848, 0.3851293430708109, 0.10540307570549991, -0.07850681705224197, 0.3277768825175042, -0.24937727049361696, 0.16811225281343284, -0.13922204079148986, -0.29149502359058804, -0.03754641024582752, -0.18210849618990277, -0.10486892234092046, -0.2752594343651331, -0.22134603435178407, 0.4165421860430894, -0.24357109120302137, -0.007723638395644689, -0.10273482381169519, -0.1768852057569536, -0.1884509431963016, 0.4166462120783347, 0.10283452668120138, -0.041419920686166095, -0.012724971704705781, -0.19593673669366954, -0.1671402164408615, -0.19680477139174263, -0.09599468789594427, -0.2077023674835755, 0.0002724000016844943, 0.164483841051219, -0.3071103332215579, -0.11895872561137905, -0.20212991329021868, -0.165915242918319, -0.3377400095713278, -0.33616954254011755, -0.08902034115674723, -0.026830969520779444, -0.1930232803996538, -0.17822249027100812, -0.06487954885000424, 0.24161154134890647, 0.3810260920396253, -0.4446141943353791, -0.2105013820791348, -0.0751660903482674, -0.12954189115392134, -0.12259198375112261]
+tmp [-0.7866661478518855]
+img [0.78351891040802, 0.6936490535736084]
+mov [0.5067492723464966, 0.4814724326133728]
+===== average16 ========
+rank 0
+audio [-1.591805694605319, 2.5087075270835775]
+txt [-0.23545093078964485, -0.1329099501206723, -0.13330947462235346, -0.40359129207747296, 0.1367842704825149, -0.23141938272162843, -0.2309318060185271, -0.19599174140462355, -0.1800117249735797, -0.22661225610161317, -0.19298573289103463, -0.10142381444692287, -0.23596784462126882, -0.1241705763272747, -0.21292093315171703, -0.2450978937219506, -0.22737637527480484, -0.3198260967107892, -0.22238098658445368, -0.12449920313677622, -0.28876607148383426, -0.042456216235338365, -0.32932076774897123, -0.0010698001020295735, -0.18027896141319108, -0.2543900287823022, -0.15834200437092416, -0.0634898785280845, -0.23091461891174908, -0.22907028246133915, -0.042029385875526744, -0.19415546217206453, 0.23920043644281713, -0.32520703631107284, -0.19852377361059093, -0.22688914494437754, -0.19771949250011672, -0.11449330796737164, -0.14081084245737824, -0.16266009618825075, -0.07954070949796002, -0.3449375003305328, -0.1890081557082565, -0.052050068029143144, -0.06981690581229943, -0.19958841049235992, -0.13865410877177992, -0.10646541056208142, 0.2998277159352333, -0.15745904352434692]
+tmp [-1.2808170246521817]
+img [0.6558774709701538, 0.4636313319206238]
+mov [0.4331425726413727, 0.45115023851394653]
+===== its_slim_ ========
+rank 0
+audio [2.4807323620600252, 2.2806291893893174]
+txt [-0.0710547598954566, 0.3313976183234102, 0.4411201177714749, 0.03481643656841382, -0.2267426772043524, -0.35550546449570747, -0.007518315414239941, -0.30056242288177604, -0.40136220308840087, -0.02621526124466999, 0.09169820016828832]
+tmp [0.2486398770119479]
+img [0.6685097217559814, 0.658794105052948]
+mov [0.5095646977424622, 0.4856017231941223]
+===== dellzorfn ========
+rank 0
+audio None
+txt [-0.17696559156063035, -0.23449951801084443, 0.3048913076064467, -0.05904514825858916, 0.0007468000347081609, -0.026694465081055347, 0.3814722806895042, -0.18341696210891847, -0.06325027814388429, -0.13419020175853882, -0.07253570673014745, -0.18288815206768438, 0.26295314017629634, -0.326936935686716, -0.3685126359070562, 0.3212787431379796, -0.22456357106929142, -0.15677777628241163, -0.05026446015696037, -0.16543669401520175, -0.06253036675807078, -0.0566288083573611, -0.21154248678729784, -0.2060175918224062, 0.3155386341767744, -0.17645667921462416, -0.23785459340659373, -0.11076041411696749, -0.13984803798161122, -0.32010154810199487, 0.502068869949651, -0.18289105621788523, -0.2189979663651125, 0.025412007437956973, 0.13896158511336487, 0.25506050825416987, -0.15245057630665237, -0.09006242716481318, 0.16048918877657006, 0.29234160616442806, 0.24170631161552544, 0.10463215403114365, -0.026459703630232152, -0.11905707301168672, -0.21248681979803744, -0.16633001137238215, 0.25960382207042143, -0.07510961070648285, -0.06268980290445758, 0.43648433475141385]
+tmp [-2.325423884220687]
+img None
+mov None
+===== blique_ ========
+rank 0
+audio None
+txt [-0.05142989315329915, -0.39127254072791945, -0.18831825287094842, -0.22293329576943016, -0.15931362631916496, -0.1634387686275679, -0.13403884318308795]
+tmp [0.9583488718334798]
+img None
+mov None
+===== 1mountainog ========
+rank 0
+audio None
+txt [0.255700145070864, 0.39618241617175026, -0.2714243200892431, -0.21004242612728855, 0.23459335683573782, -0.25407856970984743, -0.16961797615935498, -0.11227250552381614, -0.23743289519568686, -0.1267607835246347, -0.1808695497114063, -0.06445610645540914, -0.2492798114202226, -0.21721549491092462, -0.3102600290324222, -0.03228776470649535, 0.26569162095919846, 0.019285397707079505, -0.06994822600988418, -0.17499158696983777, -0.13586059235953493, 0.3548054461149549, -0.22269297758557358, -0.12337240724049571, -0.2034165286605863, 0.34192783102004315, 0.3548054461149549, -0.04765685771155882, 0.21786042510856946, -0.21331978811416724, 0.30243080706307385, -0.055163184102507715, -0.14777923619320912, -0.24013237196826007, -0.2110721554443867, 0.6506223761141758, -0.08677008037541817, -0.08956967474794578, -0.11474031743646408, -0.13750408456864902, -0.16981067711459058, -0.22732422717788642, -0.13435140615535868, -0.24762034383297385, -0.06270317603779754, -0.20342210596136545, -0.2653648481726037, -0.5293597009405894, -0.2472182524375747, -0.19658606961415898]
+tmp [-1.725575945431842]
+img None
+mov None
+===== vizzuaal ========
+rank 0
+audio [2.1767266366987412]
+txt None
+tmp None
+img [0.7087723016738892]
+mov [0.49837738275527954]
+===== calh95 ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== alejo98vs ========
+rank 0
+audio [-1.3871695909235702, 2.689597189477341, 2.5395746391241185, -0.3253190679623067, -1.6955298084623747, 1.4434607733456195, -0.9690494877392001]
+txt [0.10182589078595951, -0.12178132555672186, -0.1764689341234541, -0.19267857513651154, -0.0881277928365987, -0.19514118026208224, 0.04616127520109462, -0.2567642212026832, -0.14878981112540413, 0.1674280205635315, -0.1414230401999044, -0.02074566401567141, -0.010400013738024402, -0.12444306626396148, -0.211404637004869, -0.16463969143675933, -0.16791933772848744, -0.13144693849709257, -0.16228064309269596, -0.37471493596143146, -0.05638533410413491, -0.25452807956269985, -0.2016252057333982, 0.16563871167803101, 0.20267291675736876, -0.10161053469438892, -0.06568320447936986, -0.19802526610228954, -0.3110038065693987, -0.19723197028436365, 0.21846961676427204]
+tmp [-2.8764567681890583]
+img [0.5875622034072876, 0.6135596036911011, 0.22199614346027374, 0.6766757965087891, 0.6412097215652466, 0.7952165603637695, 0.7314605712890625]
+mov [0.4534490704536438, 0.49847403168678284, 0.5361348986625671, 0.4403764605522156, 0.4886874556541443, 0.43764400482177734, 0.4262189269065857]
+===== shabakahd ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== jihad ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== fortwoecs ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== pixlhd ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== strok ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== tai___d ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== biggyjtv ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== theprince_cs ========
+rank 0
+audio [-0.7577268270033919, -2.9254442628691497, -1.6662858493538355]
+txt None
+tmp None
+img [0.6528119444847107, 0.7794454097747803, 0.48513054847717285]
+mov [0.5182800889015198, 0.5027402639389038, 0.49970436096191406]
+===== eseasuperlit ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== matriick ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== firestar951 ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== meatt ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== lolmonster ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== yaboisalad ========
+rank 0
+audio [-1.0618294483110748]
+txt None
+tmp None
+img [0.6111832857131958]
+mov [0.4913341999053955]
+===== edp__ ========
+rank 0
+audio [-1.2446363102333378]
+txt None
+tmp None
+img [0.8451380729675293]
+mov [0.4863579273223877]
+===== dalegod ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== the_zcampy ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== the_boy_scout ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== gleamdream ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== ib3_tv ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== amnesia_cs ========
+rank 0
+audio [1.5792621850006274, -1.0263105806617066, 2.3851773975122863, 1.9975537683339213]
+txt None
+tmp None
+img [0.7021802663803101, 0.5850397348403931, 0.2754102349281311, 0.11998896300792694]
+mov [0.43122339248657227, 0.4582672715187073, 0.5092177391052246, 0.44222456216812134]
+===== mad3sto ========
+rank 0
+audio [-2.687416091999856, 1.2220266186097941, -1.007343774555161, 2.2710398187555785, -1.822701750774008, -2.5840809044750097, 0.2859731140044841, 1.7701795625715735, 2.2710398187555785]
+txt [-0.1031868597008812, 0.25485671191850867, -0.1929858540118123, -0.12820479469874577, -0.12464135317606376, -0.17515281611561886, -0.1904723755786024, 0.03511760861043741, -0.1065283085662199, -0.15093026407555835, 0.1190375640530996, -0.24513204154100063, 0.2900188184769153, -0.24513204154100063, -0.25629213905207215, -0.1702464112406126, -0.14056177408118883, -0.023154834476221388, -0.1433610306752638, -0.13488642278262888, -0.16186943443011048, 0.33332861891734283, -0.23295144709653579, -0.18447106861913984, 0.1269807462963868, -0.1073612055442458, -0.09260388018228095, -0.17697929832427828, 0.06981474317913533, -0.029593759638927096, -0.33400954545520145, -0.3166606004238421, -0.21432033758962296, 0.5087657802099933, -0.22308391301178856, -0.28825575764140976, -0.2646516310955348]
+tmp [-0.6663044477872512]
+img [0.6353853344917297, 0.5314565300941467, 0.6827087998390198, 0.6889722347259521, 0.6072996854782104, 0.49131274223327637, 0.7051230072975159, 0.7239295840263367, 0.6549767851829529]
+mov [0.5077739953994751, 0.535631537437439, 0.5080221891403198, 0.4953044056892395, 0.4463168680667877, 0.477289617061615, 0.5075129270553589, 0.45064035058021545, 0.45781826972961426]
+===== goofplays ========
+rank 0
+audio [2.2749375718654896, 2.2710398187555785, 0.9525613781304091, 1.2592095139808577, 1.8692372822555348, 2.017285189441451, 2.9377224733530927, 0.6334882897832166, -0.9032650061955687, -0.6533723005017322, 0.0]
+txt [-0.18471824234135842, 0.30116996688216585, -0.08126172792858408, -0.2556745309532121, -0.0007131200302207851, 0.1190375640530996, -0.27439091910872326, 0.04727268141348759, -0.05852509923215009, -0.03263129517918867, -0.18278295781212944, -0.09811527406833127, -0.21444742674495257, -0.10995745422934372, -0.10512992038946692, 0.033341648386741314, -0.17189420848971823, -0.10995745422934372, -0.041520844065573694, -0.21877119168809225]
+tmp [-0.2563277983565202]
+img [0.7145366072654724, 0.5383725762367249, 0.5212953090667725, 0.5972722768783569, 0.8992606401443481, 0.6440880298614502, 0.5939086675643921, 0.5761680006980896, 0.5445669293403625, 0.7360163927078247, 0.5786648988723755]
+mov [0.4966580867767334, 0.4930412173271179, 0.5133143067359924, 0.4245258867740631, 0.5213786959648132, 0.43200787901878357, 0.5061412453651428, 0.5103483200073242, 0.47041162848472595, 0.4574287533760071, 0.47249895334243774]
+===== slight___ ========
+rank 0
+audio [0.5778389616626827, -0.32072118336680366, -0.970253385431283, 2.721267717662447, 2.2710398187555785, 2.7109552239182384, 3.135911687103611, 3.1439582786946025, -2.6571449107066027, -1.2055464710984325]
+txt None
+tmp None
+img [0.6159802079200745, 0.7880717515945435, 0.7762665748596191, 0.7809504270553589, 0.6994549036026001, 0.7908162474632263, 0.5289825797080994, 0.8545418977737427, 0.7655099630355835, 0.7379955053329468]
+mov [0.5018335580825806, 0.5158273577690125, 0.49628910422325134, 0.4777546525001526, 0.4758412837982178, 0.5552298426628113, 0.5259537696838379, 0.44933637976646423, 0.4837145209312439, 0.4484378695487976]
+===== suplexfps ========
+rank 0
+audio [-2.8428901528723576]
+txt None
+tmp None
+img [0.7506011724472046]
+mov [0.4837973713874817]
+===== drhippo ========
+rank 0
+audio [-0.14891457970483796, 3.2097622572330877, 0.877770495302343, 1.4760155592566253, 0.25354966206948143, 2.4962711506500104]
+txt None
+tmp None
+img [0.5404443144798279, 0.4714466631412506, 0.5155884027481079, 0.5617866516113281, 0.659615159034729, 0.7469934821128845]
+mov [0.49310001730918884, 0.4575642943382263, 0.41613492369651794, 0.3739596903324127, 0.4630238115787506, 0.4887661933898926]
+===== snoob_ ========
+rank 0
+audio [-3.183274683806448, 3.058078036883033, -0.5915033081434911, -1.1581148251104951]
+txt None
+tmp None
+img [0.5922712087631226, 0.6925934553146362, 0.7011783719062805, 0.724071741104126, 0.783692479133606, 0.6084851622581482, 0.7710099816322327, 0.7108254432678223]
+mov [0.512262761592865, 0.5025091767311096, 0.4847394824028015, 0.4892367720603943, 0.5222150683403015, 0.5047179460525513, 0.5020714402198792, 0.4944900572299957]
+===== antyy_ ========
+rank 0
+audio [-2.2965390656558005, -1.1550933057271642]
+txt None
+tmp None
+img [0.9417179226875305, 0.689960241317749]
+mov [0.4396169185638428, 0.5171717405319214]
+===== mattchuwu ========
+rank 0
+audio None
+txt None
+tmp None
+img [0.49606752395629883, 0.45960965752601624]
+mov [0.46620941162109375, 0.45397669076919556]
+===== trimbibs ========
+rank 0
+audio [0.9064345126038914]
+txt [-0.2394021772776901, 0.17611274091046303, -0.13387290097968155, -0.18186545490877049, -0.1365401341143762, -0.2502347499263995, 0.32026925395912387, -0.08025957560219574, -0.010023803929005926, -0.23728349047343011, -0.11046230413815232, -0.27323911701914616, -0.07643246765231496, -0.2455505973563589, -0.13787576062487267, 0.26762462016152944, -0.12561109903610068, -0.10677757606998983, -0.18038134930961722, -0.10101039739647505, -0.2533109091449138, -0.08249214779760287, -0.21830608228660914, -0.23369025144628486, -0.27470928394293037]
+tmp [-1.9206627438389312]
+img [0.2849334478378296]
+mov [0.44746875762939453]
+===== msxshots ========
+rank 0
+audio [1.4366155321880563, -0.3654537951063383, 1.180512833150923, 2.0305743470507447, -1.1401109011148478, -2.5781188425456865, 1.3133907625836094, -2.7683254992813566, -0.09018106773671647, 2.2710398187555785, 1.2155529243420684, -0.680812433429066, 2.2710398187555785, 2.624153924112684, -1.1881498327696318, 2.2710398187555785, 1.6747643542739712, 1.8477269506177938, -0.8655072930770594, 1.227781220231034, -2.1554826552567223, -0.840782528742208, 2.5477171356073582, 2.9622655197392223, 2.8654139094163535, -0.29990789162730286, -1.8028869632542381]
+txt [-0.24600612799678534, -0.2466396818633143, 0.07128801502720616, -0.0472611950002447, 0.1271877398093263, -0.3456937233148778, -0.1856558351423983, -0.2078903016903996, -0.19954974807342712, 0.2952933665600979, -0.2733967037998346, 0.1296554868049333, -0.25744136925566646, -0.3203790632962174, -0.3110090513785643, -0.22618324538613688, -0.11319631451700392, 0.08715552819918371, 0.34854128626835673, -0.1393025096869166, -0.20796255705872146, -0.2231835024028864, -0.07597852925109917, -0.3328128139661205, -0.1649276373208364, -0.15113398140714068, -0.08245055715775791, 0.23889694165687062, -0.12246282017948554, -0.1907203339083929, -0.28914409370855143, -0.3179583254849549, -0.06757730532396455, -0.24871990158453589, -0.24695832514929952, -0.09512426380858152, -0.15902822624432505, -0.3843124876106678, 0.42405555452294164, -0.24571834240625196, -0.2024182021177708, -0.11759344185194019, -0.2075076443293346, -0.07536220782269758, -0.17329337685326954, -0.4100703193937979, -0.3294814487986051, -0.285179551887824, -0.0873824396840398, -0.08284438892141775]
+tmp [-1.112239082867502]
+img [0.5651340484619141, 0.6108689904212952, 0.4489019513130188, 0.6852094531059265, 0.6782905459403992, 0.8702065348625183, 0.7008088827133179, 0.558840811252594, 0.7083432078361511, 0.7436601519584656, 0.7078005075454712, 0.5424443483352661, 0.7018148899078369, 0.5725633502006531, 0.5955126881599426, 0.7333731651306152, 0.6632794141769409, 0.6376534700393677, 0.6218801736831665, 0.7774975895881653, 0.3955424427986145, 0.5549489259719849, 0.7902811169624329, 0.7179192304611206, 0.6687923669815063, 0.6374720931053162, 0.6039935350418091, 0.8290565609931946, 0.45666399598121643, 0.6442776918411255, 0.620502233505249, 0.6855512261390686, 0.676954448223114, 0.6844491958618164]
+mov [0.5163555145263672, 0.5019862055778503, 0.5038308501243591, 0.5328505039215088, 0.47249388694763184, 0.46238788962364197, 0.49868401885032654, 0.47716277837753296, 0.4976453185081482, 0.5179804563522339, 0.48938217759132385, 0.46831828355789185, 0.5385369658470154, 0.4695062041282654, 0.4574945867061615, 0.4858815670013428, 0.4123043119907379, 0.43607062101364136, 0.4902385175228119, 0.5057151317596436, 0.4738871157169342, 0.4559361934661865, 0.5314618945121765, 0.44183534383773804, 0.4856337606906891, 0.45755404233932495, 0.44983959197998047, 0.5215436220169067, 0.5016285181045532, 0.5270422697067261, 0.4168074131011963, 0.4841059148311615, 0.49372807145118713, 0.5069704651832581]
+===== itrxgic ========
+rank 0
+audio [2.7109552239182384, -1.6206880612021497, -0.5848385715626624, 1.1812361832553335, -0.13866174535978323, -2.868949872067666, -0.04368694689858679, -1.4873487436802242, -1.1249730468173602, -0.49991774169456543, 0.9463473120024937, 2.7647322574549955, -1.2232216329112002, 1.4488410086379473, -2.3548631353991425]
+txt [-0.18683629309553484, -0.013122508304996639, 0.19924413031518248, -0.031122711938419905, -0.13633638884845203, -0.07402298162809663, -0.155119092162163, -0.13263265163219967, -0.13798732959983986, 0.12596509564325348, -0.1523890201715145, -0.15234114337674207, -0.02237581354125187, -0.2455080017871954, -0.13201459402683155, -0.43020784999924727, -0.07124852492542455, 0.03461825686403548, -0.1168315108258404]
+tmp [-1.1185359541189166]
+img [0.28633588552474976, 0.6016591191291809, 0.6529008150100708, 0.31031525135040283, 0.37091320753097534, 0.3150790333747864, 0.1863304227590561, 0.34163662791252136, 0.7457771897315979, 0.6602801084518433, 0.2697295844554901, 0.5465868711471558, 0.21545720100402832, 0.19191378355026245, 0.9357249140739441]
+mov [0.4121096134185791, 0.4892110824584961, 0.47047320008277893, 0.4921703338623047, 0.4865289628505707, 0.5707648396492004, 0.45157116651535034, 0.46433234214782715, 0.47320133447647095, 0.523043155670166, 0.5280840396881104, 0.49582013487815857, 0.42358407378196716, 0.5737675428390503, 0.4832725524902344]
+===== passionite ========
+rank 0
+audio [-0.9458012894827753, 0.547433764194449, 1.0137326541186713, -1.9415287810862094, 0.9509689503017744, 3.0893188103001514, 2.8782356356497005, -2.0217321657178027, 1.4978929041168307, -1.9655283281185096, 0.5063055047728682, 0.2598930461664265, 1.6740872711077082, -2.1032638165781004]
+txt [0.03033992713929275, -0.4095334348367447, 0.12288946134063818, -0.4115557926328176, -0.19411863736569512, -0.1508393485819883, -0.12679130583678003, -0.18612357265232232, -0.09833335924619671, -0.14672964687972548, -0.24381710788985786, -0.1329609347066664, 0.056215599671444176, -0.20363610694962633, -0.2455146611370628, 0.2387679191166299, -0.2629105728677784, -0.23338926444628935, 0.20864078115307738, -0.13390934381910327, -0.18599022525055517, -0.20970081187625492, -0.2942467160771068, 0.15644751943596164, 0.2358200069035432, -0.34264643473650896, -0.15384536293406134, 0.14356186047007227, -0.3479841279903117, -0.057536147091899574, -0.18323657491339768, -0.1795923537119217, -0.11477101828887212, -0.0817523017985487, 0.007124430134705094, 0.2168323789550125, 0.3966777799696093, -0.24907331907504074, -0.20817026898462615, 0.025412007437956973, 0.3639368530910894, -0.2124405818945889, -0.12795690081522665, -0.018168579766749154, -0.060771576482140995, -0.3151004811438783, 0.27617668837968923, -0.09936920561661522, -0.03632159260284482, -0.14396903717847273]
+tmp [-1.2473864194579107]
+img [0.34065234661102295, 0.4211224913597107, 0.47348302602767944, 0.31215065717697144, 0.8067277669906616, 0.8972209095954895, 0.40047845244407654, 0.5202020406723022, 0.49993109703063965, 0.8774131536483765, 0.505780041217804, 0.6455157995223999, 0.7817198038101196, 0.6288646459579468]
+mov [0.45988887548446655, 0.47209829092025757, 0.48840323090553284, 0.47144848108291626, 0.4027916491031647, 0.4307857155799866, 0.4577651917934418, 0.5268543362617493, 0.4768500328063965, 0.45487815141677856, 0.4610498547554016, 0.46980586647987366, 0.4967834949493408, 0.5172831416130066]
+===== tyler_a_lot ========
+rank 0
+audio [-1.5437554905160427, -0.49808842953716875, 0.4872992559259401, -2.757757997844162, -1.5748928186807356, -1.3109973454259929]
+txt [0.2570541531100681, -0.1859471348239594, -0.1551473414467909, -0.20882177838102944, 0.12949746535906745, 0.0968905277770698, -0.27410073045413985, 0.17386062816824088, -0.18419663047665172, -0.19149601343546127, -0.2218509424651852, 0.0004136000058960021, -0.11149174729560121, 0.031795478372279334, -0.24619430878756127, -0.1714155396901198, -0.2008184945344384, -0.2922844013656026, -0.22238293042023516, -0.1746471688041117, -0.24351709842349573, -0.09656749333507857, 0.09088771377001381, -0.11654975384761311, -0.24146129108759729, 0.06039691289519802, -0.10350470687296046, 0.07345781402472898, -0.07536220782269758, -0.07144717752230097, -0.20500319611654605, -0.21782743681039363, 0.35315273670608616, -0.01647365254322813, -0.1379396233086046, -0.07368067530862596, -0.0716444297310159, -0.20258982968215247, -0.12620018747754902, -0.17688657642285033, -0.40050297807883817, -0.19609969203801889, -0.11332488596455464, -0.16908497272544626, -0.10642810508505683, -0.17861709410259619, -0.3387280992884545, -0.1864404256105114, -0.29623212045300307, -0.31199412644370805]
+tmp [1.4769863163834942]
+img [0.6756487488746643, 0.6226882338523865, 0.8227742910385132, 0.2367256134748459, 0.6669965982437134, 0.4424404203891754, 0.31721043586730957]
+mov [0.4937952160835266, 0.4815674424171448, 0.4791509211063385, 0.4960089325904846, 0.4791920781135559, 0.5280221700668335, 0.44002318382263184]
+===== royl_ty ========
+rank 0
+audio [0.5863620657573184, -3.0386505161396045]
+txt [-0.12031946330479824]
+tmp [-0.22957117034651775]
+img [0.36240798234939575, 0.33255475759506226]
+mov [0.4829578399658203, 0.4740116000175476]
+===== zijuu ========
+rank 0
+audio [-1.162518289585283, -1.3552094217499235, -1.2735509150003805, -0.8770956157790654, -2.712838888449731, 0.8430633480696009, -0.8194519880462788, -0.24099972073538956, -0.3470416359992213, 0.19792359636611612, -1.9325373476831913, -0.8770956157790654, -0.591285305123134, -2.960768988841197, -1.668906689180271, -1.239517402397008, -1.239402536629638, -1.5861234470378327, 1.193968075089311]
+txt [-0.24073970550073157, -0.316613437780028, -0.2659953242702831, 0.012517763452726559, -0.14769775318009667, -0.18806474146101465, -0.16078738424189504, -0.22618555467151852, -0.17749371710130302, -0.1642212759159471, 0.05933043796962296, -0.18138947088499527, 0.13565468654787027, 0.2624090615214516, -0.13884333657374984, -0.1331646337113458, -0.20843649614710374, -0.13948913333926946, -0.0498687322700222, 0.030321522907184865, -0.06677440019758979, -0.11112043962804603, -0.28038667534006256, -0.39549414393681526, -0.1986660472567058, -0.23966056843835437, -0.09793712679232143, -0.2627588219327964, 0.07521503946807447, -0.2020223021552627, -0.22761151150511624, -0.15047014152086302, -0.1642500289389517, 0.0015280002972958048, -0.21782237726590095, -0.2554878350150197, -0.15650680083802487, -0.19752674272685386, -0.29823928875016864, -0.1808481758757139, 0.09775817915627462, 0.30684632998598893, -0.22952030616265634, -0.1359485974768085, -0.10846292674673193, 0.5284460288552802, -0.24073970550073157, -0.09526057213563542, -0.2105013820791348, -0.1533255495388533]
+tmp [2.0709099229605488]
+img [0.3628483712673187, 0.1385360062122345, 0.22326597571372986, 0.34750688076019287, 0.5527640581130981, 0.9137684106826782, 0.36166563630104065, 0.5577091574668884, 0.17470760643482208, 0.4365604817867279, 0.1598975509405136, 0.14620766043663025, 0.4859883785247803, 0.49002504348754883, 0.15893962979316711, 0.4177858233451843, 0.5204566717147827, 0.48678794503211975, 0.17792686820030212, 0.30144453048706055, 0.6370288729667664, 0.20708437263965607, 0.2584342360496521, 0.3119935691356659, 0.6087014079093933, 0.41245436668395996, 0.60262131690979, 0.1528269350528717]
+mov [0.4362693727016449, 0.44648313522338867, 0.4006129801273346, 0.41272878646850586, 0.44585520029067993, 0.43868008255958557, 0.41086751222610474, 0.45744413137435913, 0.4791041910648346, 0.4536857008934021, 0.41988903284072876, 0.4507383406162262, 0.48579326272010803, 0.4471379220485687, 0.44879239797592163, 0.5087737441062927, 0.42161887884140015, 0.43747711181640625, 0.4064226746559143, 0.47110581398010254, 0.39807742834091187, 0.5017860531806946, 0.45219793915748596, 0.44624799489974976, 0.4246531128883362, 0.45135077834129333, 0.45007118582725525, 0.4924679398536682]
+===== vzohhck ========
+rank 0
+audio [0.3748483948464772, 2.513315065948621, -2.6255826925461005, -0.4878507778714781, -1.5429971478193838, -3.808504110916969, 0.6027709510993151, 1.3209516938376702, -0.6775873214529137, 2.5100015750326374, -1.218559790485788]
+txt [-0.2572505646999928, 0.6182436989052903, -0.027411516268771665, 0.46519720029913025, -0.14183071770290326, -0.009017421102963864, -0.1285698549263811, -0.24557833129221476, 0.174796502736501, -0.14842025835965506, -0.09230107404650018, -0.24114054710438768, -0.18031791628750082, -0.12635002319151928, -0.18648981242052698, -0.19891731339024016, 0.058593838128544046, 0.16128672766320226, -0.12754321755840334, -0.23355202237590114, -0.1492383720367655, -0.18296257115927125, 0.35187381375474297, -0.19916268767715647, 0.17284543925480245, -0.08635530435373502, -0.09711405276528148, -0.23309388328742725, -0.2142531724160363, -0.025565392347875096, -0.16172034295757012, -0.20787372387018882, -0.07116149470441883, -0.10677757606998983, -0.1685101374478985, -0.1504825313933924, -0.23781637804103672, -0.11929800650268062, -0.15531478612489585, -0.25902215228137304, -0.12128979492684791, -0.15279553739758464, -0.129943978526497, -0.05626163605302831, 0.24122471939016607, -0.17708189800827012, -0.17930376285137342, -0.17236447468449506, -0.17260042088137648, -0.22882339526584944]
+tmp [-1.1824584964637468]
+img [0.7715846300125122, 0.7163001298904419, 0.7277332544326782, 0.6224231719970703, 0.8430217504501343, 0.5670307874679565, 0.2514186203479767, 0.6737036108970642, 0.7250840663909912, 0.7964565753936768, 0.644883394241333, 0.7637196779251099]
+mov [0.4514407515525818, 0.5507751107215881, 0.5162028074264526, 0.4747002124786377, 0.5538562536239624, 0.5062707662582397, 0.5413163304328918, 0.518217921257019, 0.5200157761573792, 0.4590299725532532, 0.42662009596824646, 0.5285423398017883]
+===== colbzz ========
+rank 0
+audio None
+txt [0.34301328627639555]
+tmp [-1.2847177990110448]
+img None
+mov None
+===== german66 ========
+rank 0
+audio None
+txt [0.14701662900725965, -0.10239376845366123, -0.18176978861885307, -0.34205668646619075, -0.10320851726065716, -0.37088165428435743, -0.12723870545129273, -0.3453998012456028, -0.18201415875342236, -0.3406415307379121, 0.18194732848879352, -0.24596958065492208, 0.015941017563777995, -0.29849415792496187]
+tmp [-1.0623276976380875]
+img None
+mov None
+===== bratty ========
+rank 0
+audio [-1.6743881582287095]
+txt [-0.08726293215447979, -0.10047259517961918, -0.1437691262818898, -0.24336981765961616, -0.10161013366103418, -0.04554987390541768, -0.11522138393832371, -0.1398601369507219, -0.20149812367920528, -0.05763154613163696, 0.010112606179425759, 0.09775817915627462, -0.36644381460781833, -0.1494734783180091, -0.05684498223427255, 0.06766752838823241, -0.1321002865451839, -0.16490750102331692, -0.01589653474582609, -0.14849386242378806, 0.27785715974006675, 0.0496272229057991, -0.27056118551275377, -0.07880956485391592, -0.3932539687599197, 0.19020521034178461, 0.4793801688886833, -0.10963528521977305, -0.2467414546704311, -0.3451517528981891, -0.11982259675886862, -0.1699373868577209, -0.4025980117362644, -0.2259921439729571, -0.07906235822735061, -0.18471921055371135, -0.03287968179246258, -0.21926292174955495, 0.22468286324469425, 0.33762486859439633, -0.2096880728569211, -0.19726084936638577, -0.2897519291672321, -0.10195723108717121, -0.23356191608124952, 0.210833358343436, -0.12418093616103598, -0.1210004960692028, -0.1324385617907962, -0.019223191942078104]
+tmp [-0.055607444626181404]
+img [0.44918328523635864]
+mov [0.5155625939369202]
+===== chaddypz ========
+rank 0
+audio [2.2285024397798416]
+txt [0.3077423543420287, -0.2503407122271591, -0.1213335956811642, -0.30151447087794697, -0.2573964329807382, -0.2552722782705063, -0.24431220828710284, -0.15347434144315258, -0.07513933260233394, -0.2181328360611984, -0.24855111971953445, 0.1682280275324288, -0.07553124814797359, -0.3176699648052318, -0.22562956089365532, -0.24385137218236652, -0.2653775491812805, -0.26034032750150593, -0.14316522942977547, -0.1217826103084613, -0.14540846457510626, -0.049522038305662236, -0.28763788509124, -0.10764803268377751, -0.210822478333676, -0.2551921879618429, -0.28789615905967303, -0.04557444665371332, -0.11828813205949842, -0.3045131850976705, -0.07248844465854147, -0.05638533410413491, -0.12680865538786895, -0.1288827877157002, -0.20209706004875155, -0.2806497026610023, -0.12975831810046148, -0.15651311937431922, 0.07237133119580347, -0.2795383065238791, -0.2806497026610023, -0.1600416069991539, -0.21072520593632033, -0.08259925003374073, -0.30688224231989614, -0.2354609078020311, -0.15822113045563851, -0.13455532498212883, -0.12893914118981456, -0.12062982675142052]
+tmp [-1.762193277770536]
+img [0.6153761148452759]
+mov [0.48696333169937134]
+===== grewia ========
+rank 0
+audio [-2.203239030109686, 0.12873750675079468, -0.8768064392005657, 0.5794028910358754, -0.7615953440806923, -2.7446413672350483, 0.5080532497459843]
+txt None
+tmp None
+img [0.5520666837692261, 0.7448135614395142, 0.7709363698959351, 0.7178996801376343, 0.7278228998184204, 0.6876683235168457]
+mov [0.48777690529823303, 0.45208317041397095, 0.4766481816768646, 0.4804670810699463, 0.47182828187942505, 0.41146230697631836]
+===== mikeoak_ ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== izzawrap ========
+rank 0
+audio [-0.40284079548369356, -2.0393788168772065, -1.0780247307380926, -0.6339298105557538, -0.34535200373592967, -2.729933242288299]
+txt None
+tmp None
+img [0.6276405453681946, 0.8576792478561401, 0.6089022159576416, 0.6627833247184753, 0.7122224569320679, 0.7988422513008118]
+mov [0.465811550617218, 0.4811610281467438, 0.4460821747779846, 0.5110819935798645, 0.44428691267967224, 0.5538061261177063]
+===== tstagered ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== h0axtv ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== soapbox_gaming ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== clairvoyantgoose ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== kemoi12 ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== zlbyjuanes ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== g_boy02 ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== bmaxgg ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== omgkam ========
+rank 0
+audio [0.534705822630632, -0.5224479478530104, -0.5786642830305336]
+txt None
+tmp None
+img [0.2914867401123047, 0.9424378275871277, 0.5200904011726379]
+mov [0.4848204553127289, 0.446309894323349, 0.44158807396888733]
+===== killamanja_ ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== theonebach ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== sn0wdog ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== childrensadvil1 ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== gfmileo ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== hereisx ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== jeffrey_son ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== j9shtv ========
+rank 0
+audio [-1.1371718014757857, 0.6438356539526692, -2.7295853536535084]
+txt [-0.39215598135578766, -0.30169925017010485]
+tmp [-1.2380649430355803]
+img [0.19110362231731415, 0.602531373500824, 0.15181949734687805]
+mov [0.4006202816963196, 0.4437136650085449, 0.4950740933418274]
+===== tylerstv ========
+rank 0
+audio [-1.5832195385986996, -0.6959534943525171]
+txt None
+tmp None
+img [0.6947379112243652, 0.6604923009872437]
+mov [0.4994645118713379, 0.529155433177948]
+===== mfxolddie ========
+rank 0
+audio [-0.9432714442196319, -0.5696828880414648, -2.1629205956915767, -2.0908432460490936, -0.8055480020043059, -1.8142106518484833, 1.2956382945557452, -2.9383504246505363]
+txt None
+tmp None
+img [0.18608079850673676, 0.26345744729042053, 0.49238505959510803, 0.1530415266752243, 0.6656966209411621, 0.33250361680984497, 0.22750842571258545, 0.201705664396286]
+mov [0.42435669898986816, 0.49351468682289124, 0.46489566564559937, 0.5489410758018494, 0.4735339283943176, 0.47985777258872986, 0.40354615449905396, 0.47473078966140747]
+===== codsky ========
+rank 0
+audio [-1.1728512177241022, 1.9520499866688632, 2.5338349808286904, 0.13416087013880904, 0.7461077198801135, -3.238839542591021]
+txt None
+tmp None
+img [0.7777400016784668, 0.5293512344360352, 0.7245473265647888, 0.7718881368637085, 0.74107426404953, 0.6149740219116211]
+mov [0.49582237005233765, 0.4919044077396393, 0.4813809394836426, 0.425339937210083, 0.4676332473754883, 0.45412391424179077]
+===== lumaaz ========
+rank 0
+audio [-2.552182497396356, -1.4355847927694922, -0.3296326818724847, -1.707563562613501, -1.2675904869088133, 0.06394177686352602, 0.3767955638370365]
+txt None
+tmp None
+img [0.7261425256729126, 0.9335026741027832, 0.4849056601524353, 0.5950357913970947, 0.6989940404891968, 0.9189022183418274, 0.6293889284133911]
+mov [0.40626949071884155, 0.43397122621536255, 0.5523389577865601, 0.5366271138191223, 0.47951871156692505, 0.5285505056381226, 0.48705941438674927]
+===== deejayfu ========
+rank 0
+audio [-1.0855349952141111, -3.6344298372929367, 1.8074219099478543, 1.4488410086379473, 2.9126859976470154, -1.3157275263556913, -4.091461252949302, -1.0650792528326927, 1.716597085291202, -0.9404968110057546, 2.9377224733530927, 1.8516438985606576, -0.4242090559827039, -1.2720296936305893, -1.287182993775281, 0.46483270475892685]
+txt [-0.061991645012273514, -0.27382041584408034, -0.05638533410413491, -0.3249742732039109]
+tmp [-1.2604806621802203]
+img [0.5011104941368103, 0.5489784479141235, 0.6077451109886169, 0.47122544050216675, 0.410062313079834, 0.5803715586662292, 0.494314968585968, 0.4319581091403961, 0.6573300361633301, 0.40567904710769653, 0.4413265287876129, 0.6961426734924316, 0.5114374160766602, 0.3676498830318451, 0.7273833751678467, 0.6451943516731262, 0.4666256904602051, 0.51385098695755, 0.5646756291389465, 0.5715983510017395, 0.6355447173118591, 0.743331253528595, 0.5083802938461304, 0.4929405152797699, 0.5302656292915344]
+mov [0.5042378306388855, 0.528103232383728, 0.5041604042053223, 0.46861156821250916, 0.5289629697799683, 0.5495252013206482, 0.47797542810440063, 0.497548907995224, 0.5203710198402405, 0.5087753534317017, 0.5249451398849487, 0.47999125719070435, 0.4542871415615082, 0.473921537399292, 0.46481189131736755, 0.5123862028121948, 0.5011655688285828, 0.4839298725128174, 0.5062239766120911, 0.47884997725486755, 0.4991533160209656, 0.5032892823219299, 0.5110765695571899, 0.49957942962646484, 0.49842706322669983]
+===== abcdroid ========
+rank 0
+audio [0.7461993810743083, -1.2676488257836465, -0.7376876401713126, 0.37712706707938554, -1.71884495947022, -0.38007005816276157, -1.661654686513403, -0.6172814297852317, 2.6415779382552795, -2.7518899783125876, -0.5757981990629727, -3.195378735281105, -1.463779113761584, 0.12592614157545895, -2.1995600915434346]
+txt [-0.27007492967930924, -0.33887639477553994, -0.44495490487454903, -0.11941297498509208, -0.11313102594066998, -0.35336102190884944, -0.2118522111659825, -0.2648079786977848, -0.3483196533023011, -0.15780570811571654, -0.3028041456171535, -0.21466834991824574, -0.44495490487454903, -0.1430136562197986, -0.24909809950239328, -0.44495490487454903, -0.029307777635940155, -0.19468123943947463, -0.2599145248425551, -0.260265677112133, -0.1358190814523198, 0.3610540670556168, -0.3028041456171535, -0.24631715249358316, -0.15602837192636126, -0.44495490487454903, 0.01919258911957624, -0.35336102190884944, -0.11313102594066998, 0.2266938551625856, 0.37611177870336665, -0.2756756718366667, -0.4496451841886379, -0.01077890436083925, -0.23819809320843832, -0.2323509136370056, -0.1582837207006201, 0.24944966478221572, -0.13075718312423662, -0.16156022159920697, 0.43247826628426655, 0.2646427575191752, -0.19155470842359304, -0.4496451841886379, -0.07357649424029752, -0.11993732798007449, -0.44495490487454903, -0.24915456666208277, -0.23178123195235528, -0.1083994204459347]
+tmp [-1.6213351426497518]
+img [0.628207802772522, 0.47663483023643494, 0.35951241850852966, 0.4399799704551697, 0.6394327282905579, 0.55518639087677, 0.2832266688346863, 0.5334511995315552, 0.5792585611343384, 0.4817728102207184, 0.3886012136936188, 0.5529494285583496, 0.3336503803730011, 0.45246729254722595, 0.45070844888687134, 0.2622518837451935, 0.6182379722595215, 0.3483785092830658, 0.6136339902877808, 0.5491161346435547, 0.502189040184021, 0.5013395547866821, 0.2946517765522003]
+mov [0.4461577534675598, 0.37565773725509644, 0.4794160723686218, 0.4923393130302429, 0.49102097749710083, 0.4411832392215729, 0.44993871450424194, 0.5109045505523682, 0.3765720725059509, 0.5151718854904175, 0.5050710439682007, 0.44465479254722595, 0.49896329641342163, 0.4867876470088959, 0.4819411337375641, 0.4074389934539795, 0.5202026963233948, 0.30331292748451233, 0.5086177587509155, 0.4839242100715637, 0.49217671155929565, 0.4593503475189209, 0.45962318778038025]
+===== zealyth_ ========
+rank 0
+audio [-2.8321761752222367, 1.595082684670815, -1.8850490929913943, -3.715273933016243, 2.76778578672067, 2.0668582531517337, -0.33098901520668167, 1.225101087394364, -0.2388490651374795, 1.1874238205106638, 0.6734265680806618, -0.035163622812823966, -0.19336020470818377, -0.6648543218525025, 2.0255143315808923, 2.916785627106747]
+txt [-0.23560196616067636, -0.057829150684160016, -0.22691414396806728, -0.16906889839129208, -0.24863853650554893, -0.17468324254500142, 0.3358792601927518, 0.14179095847836146, -0.31903948719894787, -0.2982453822687234, -0.048486897074422664, -0.10995745422934372, -0.13221558854139867, 0.39112670026915125, -0.17963723374851379, -0.14399489070799754, 0.05933043796962296, 0.48379187432785703, -0.1587640457295737, -0.16056193541333236, -0.21273577212047026, -0.09279994079866474, -0.17528825035283332, -0.15365922720222952, -0.04289665671742307, -0.26185875527674335, -0.16839125810086134, -0.2241799025715154, -0.2245537685232597, -0.22524795309003817, -0.19441949826383634, -0.05365927146680683, 0.2860468006177415, -0.22829937060998912, -0.1394614390882254, -0.32271973896295564, -0.2050143929441009, -0.2157605802301545, -0.08837282931151816, -0.12110600164393415, -0.24629607603709208, -0.14018142660656085, -0.1928347367522937, -0.24718385220864258, 0.16116111491859778, -0.07206529250679858, -0.24862752811292105, -0.33906408461411086, 0.04529894450910697, -0.2386249011593868]
+tmp [-2.1874481029537156]
+img [0.34395498037338257, 0.5771548748016357, 0.3434572219848633, 0.27768296003341675, 0.293348103761673, 0.550552487373352, 0.6207046508789062, 0.387939989566803, 0.16441203653812408, 0.2396235167980194, 0.4171117842197418, 0.23386669158935547, 0.42159026861190796, 0.6154393553733826, 0.8992606401443481, 0.563685953617096, 0.21183407306671143, 0.7247921228408813, 0.38183528184890747, 0.45595139265060425, 0.6258717775344849, 0.2769470810890198, 0.4949398934841156, 0.24008497595787048, 0.5814896821975708, 0.8992606401443481, 0.5837189555168152]
+mov [0.47228574752807617, 0.44695529341697693, 0.4930412173271179, 0.4250641465187073, 0.39990392327308655, 0.48869818449020386, 0.4930412173271179, 0.4270796775817871, 0.5277464389801025, 0.49578791856765747, 0.5103739500045776, 0.5050655603408813, 0.4434813857078552, 0.4534532129764557, 0.49952131509780884, 0.4969100058078766, 0.4290316700935364, 0.4588603377342224, 0.46167197823524475, 0.47009149193763733, 0.5085188150405884, 0.46584397554397583, 0.5057231187820435, 0.44313088059425354, 0.448639452457428, 0.47566238045692444, 0.48452335596084595]
+===== lordnm ========
+rank 0
+audio [-1.3735927732803583, 1.9116998790688648, -2.6529080411967234, -0.9778932945985915, -0.6785276277991154, -1.6591956567909325, -2.585154259443607, -1.3693183473293395, 2.7647322574549955, 3.0543509920612664, 2.523748515087792, -0.8284164857854283, -1.5271572147807337, -0.9953329905741224, -1.6468140858774794, -1.552329989619383]
+txt [-0.24983130962628272, 0.21039363788184348, 0.31045795985454355, -0.14310785656550676, -0.11379523911878303, -0.09799935586899117, -0.1894723267396061, -0.26648457280327037, -0.20277928216306382, 0.37778238494734373, 0.3372357595215255, -0.18716192330059186, -0.21144427670204838, -0.1580746584156188, -0.12370852646972093, -0.32015419421156766, -0.14234916573381226, -0.14460819235016295, -0.16654364404001687, -0.06120838243742263, -0.1351908464002557, -0.15320753920876384, 0.25150622740604495, -0.22213396085789416, -0.2481690885754129, -0.09800978086171425, -0.12720019002972316, 0.5626215538294728, -0.12802188622643954, -0.2904418431193472, -0.14098667224160136, -0.16433487894102047, -0.2135657685618247, -0.20349675318185106, -0.12848807812209906, -0.0856479179506563, 0.32974076649412254, 0.32050574034785034, -0.004298926620610783, -0.1068254723938934, -0.10941558767145876, -0.266187486014802, -0.06880040602979315, 0.18965039687924187, -0.034702682215031824, 0.1894709948572839, -0.17463467401526206, 0.46646656719925095, -0.40382496012636787, -0.11548389526482669]
+tmp [0.12350033329330073]
+img [0.5126611590385437, 0.30154094099998474, 0.23486682772636414, 0.20329025387763977, 0.470797598361969, 0.23288294672966003, 0.351484477519989, 0.17869381606578827, 0.38329118490219116, 0.2831524610519409, 0.21500203013420105, 0.4838957190513611, 0.2148885726928711, 0.5354903936386108, 0.5279122591018677, 0.5276597738265991, 0.4873353838920593]
+mov [0.46734413504600525, 0.47984203696250916, 0.47289973497390747, 0.5108227133750916, 0.45526766777038574, 0.4510478079319, 0.41986069083213806, 0.4501763880252838, 0.21872219443321228, 0.45531582832336426, 0.28154218196868896, 0.28777605295181274, 0.3585902154445648, 0.4051528573036194, 0.43169283866882324, 0.3726881742477417, 0.4397551119327545]
+===== lazy_bum_ ========
+rank 0
+audio [-0.09635447859156647]
+txt [-0.3343812951161443, -0.1414746977288656, -0.2945942192924471, -0.14270327799840973, -0.2456309569983945, -0.33653455465914517, -0.1561346566192036, 0.05274062175870317, -0.047224574574650124, -0.21222723512793273, -0.3221710813670343, -0.35655718130511643, 0.37212871207184056, -0.17108359786938307, -0.09847758784786444, -0.26615381664434207, -0.1691943512922546, -0.04490522434950958, -0.19498353010046196, -0.1345814428660863, -0.18230431247413756, -0.11694401422895528, -0.17823019110221647, -0.11172254451791382, -0.12961178371165394, 0.13827164144952825, -0.388848382016516, -0.19401971172626337, -0.28241449546333913, -0.14238462480265543, -0.23804129134060417, -0.1734119028727591, -0.388848382016516, -0.3022698232887383, -0.3333450675018197, 0.0004136000058960021, -0.1835966665338512, -0.3494214705245141, -0.09538733967338901, -0.22067599837584462, -0.388848382016516, -0.2549335058898997, -0.33549733975241364, -0.22061567002777188, -0.33313905220535794, -0.17604534118573198, -0.19344911094492603, -0.022362451869919225, -0.12128104281938493, -0.21960844804292992]
+tmp [-1.0808161443200406]
+img [0.30689793825149536]
+mov [0.4143792688846588]
+===== bighurtz ========
+rank 0
+audio [-2.218177255288821]
+txt [-0.12726408792870655, 0.09775817915627462, 0.09775817915627462, -0.08704776406387121, -0.004882929701952302, -0.08026053714902824, -0.13318010209160233, -0.08782448670997323, -0.18410893113854862, -0.1960341057336895, -0.05030020273955246, -0.2251386995967505, -0.1921168083264164, -0.15306663634963286, -0.16075702893006436]
+tmp [-0.9261134305380941]
+img [0.5887484550476074]
+mov [0.480198472738266]
+===== covertplague ========
+rank 0
+audio [-2.6107463137319047, -1.8853112732812727, -0.7632088312257125]
+txt [-0.2584149843158582, -0.09945297223347667, -0.1228938779741551, -0.1800007566012329, -0.19956926106252035]
+tmp [-0.5524401977037097]
+img [0.5616880655288696, 0.5851324796676636, 0.6877559423446655]
+mov [0.45577865839004517, 0.4828508496284485, 0.4820602834224701]
+===== meagan ========
+rank 0
+audio [-0.4900575943234097, -0.1918260660093447, 0.3149375447449756, 1.1930157792327494]
+txt [-0.33000831496692534, -0.17899864770788032, 0.4130507275609068, -0.27945807988912935, -0.3004776165756452, -0.22234915633305413, -0.3693899887947811, -0.322961490332129, -0.043749977006423704, -0.19152653155880642, -0.2259285389446204, -0.2231856489126716, -0.253114555082171, -0.22380836089177422, 0.3548054461149549, -0.24684436589668393, -0.2120847234632755, -0.3806423889919528, -0.25689564482642196, -0.3082337045339935, -0.353510680005518, -0.23190333819262793, -0.29461739497601835, -0.21234357607466967, 0.2953299936478726, -0.25242318839806965, -0.2514404787979205, -0.08313344604688815, -0.36165845549528947, -0.28297131352393, -0.291466424640839, -0.1779139372162539, -0.27377558606090363, -0.28827446086737835, -0.2975352176157251, 0.10112448825012636, -0.2651368849677062, -0.2728483228681897, -0.32005887348014694, 0.2694782026709826, -0.1324041714681428, -0.21490449261888694, -0.22351188385537837, -0.2672369301353657, -0.15295176663719198, -0.1559711854109016, -0.2644758303818976, -0.273627160675085, -0.3666174378215128, -0.23469538846204882]
+tmp [-0.8283177998269302]
+img [0.35538169741630554, 0.23311571776866913, 0.1678856909275055, 0.08757272362709045]
+mov [0.3941488265991211, 0.4501892626285553, 0.46657270193099976, 0.43214789032936096]
+===== ec0nica ========
+rank 0
+audio [-1.3222752514121805, -0.38268280676649513, 2.9981393930592493, -2.7367383913379646, -1.532350772720242, 0.16956511790590414, 3.2474118587450955, 0.04596809275605823, -3.4506325822985113, -1.8785979405373026, 0.5807936294111484, -1.6656126759715275, -2.033014061802368, -2.078036060071101, -2.7358636606266287, 0.7983433680056312, 1.324684322498127, -0.8779633525493895, -0.8930054386419213, -1.3241419881524799, -0.8327211733710314, -1.3240214925639804, -0.3960156420151676, -0.3565705163294347, -0.8433010525086835, -3.285269608420598]
+txt [-0.077493797777306, -0.3029544609130575, -0.29577354040712006, -0.32868630367565743, 0.020066673329137853, -0.062019872126193885, 0.0807905554322096, -0.14045814426742634, -0.06445610645540914, -0.30048428485705264, -0.0554642943056054, 0.17284543925480245, -0.08025957560219574, -0.21104812985513868, -0.13044987638570107, -0.16298310759380352, -0.12157825574605821, 0.17284543925480245, -0.20104908646390163, -0.19891153662269692, -0.04822842602666386, 0.08020576910311267, 0.06729778776516512, -0.29012649205975777, -0.12270171537142115, -0.19176430146543236, -0.2652606355715689, 0.06893568630522261, -0.09666399819380761]
+tmp [0.9383233126530854]
+img [0.4059036672115326, 0.6724867224693298, 0.55519700050354, 0.4919435977935791, 0.4669622480869293, 0.27536696195602417, 0.27842873334884644, 0.2889344394207001, 0.22899451851844788, 0.5543529391288757, 0.17592599987983704, 0.6579612493515015, 0.196523517370224, 0.4224202036857605, 0.35212570428848267, 0.48348769545555115, 0.22821156680583954, 0.2663504481315613, 0.36737722158432007, 0.3423049747943878, 0.34013089537620544, 0.5709065198898315, 0.3230891823768616, 0.3557807207107544, 0.38061532378196716, 0.6953733563423157, 0.5070394277572632, 0.5004750490188599, 0.29256471991539]
+mov [0.48166075348854065, 0.3983108401298523, 0.39704710245132446, 0.4766157269477844, 0.44770821928977966, 0.46608060598373413, 0.46048635244369507, 0.45719629526138306, 0.4708125591278076, 0.4539708197116852, 0.4466792643070221, 0.5077172517776489, 0.45075058937072754, 0.4974752366542816, 0.4639497399330139, 0.4707816541194916, 0.49294495582580566, 0.44344550371170044, 0.41650810837745667, 0.352267324924469, 0.5140583515167236, 0.4287627637386322, 0.49171629548072815, 0.4441523551940918, 0.5043761730194092, 0.4857259690761566, 0.49101343750953674, 0.3800137937068939, 0.515252947807312]
+===== dropdeadlexi ========
+rank 0
+audio None
+txt [-0.30689727068665995, -0.1547440505290921, -0.13787117892015635, -0.15834200437092416, -0.03771787093632167, -0.1226378758099619, -0.19271220540028638, -0.05843990642946801, 0.3338407665672211, -0.1503590354517641, -0.23356118621735167, 0.26625804154243554, -0.203216596633895, -0.20749802148443464, 0.038181837948641426, -0.19294394630701783, -0.08178066916009533, -0.1941815868675594]
+tmp [-0.060347107540363466]
+img None
+mov None
+===== paukbhop ========
+rank 0
+audio [-0.9621396794000598, 2.071579363374679, 0.6901486775636889]
+txt [-0.19991419878898867, -0.25348401852504104, -0.36193466048795014, 0.18472978021085038, -0.362652179609857, -0.362652179609857, 0.05700795419574676, -0.1270176948809132, -0.06345360201615206, 0.10892557053186298, -0.13273164604513957, 0.21114698300519663, -0.12025559282387718, -0.1819728989827346, -0.17710225679871364, -0.23835408657435705, 0.09346297643360874]
+tmp [-0.507501136136465]
+img [0.29452526569366455, 0.3872993588447571, 0.6297179460525513]
+mov [0.4857603907585144, 0.46063727140426636, 0.4281372129917145]
+===== theanonymousrory ========
+rank 0
+audio [1.325226827467306]
+txt [-0.23349278202576007, 0.0360444619165226, -0.22841952353024172, -0.11400933201615207, -0.17526950712621675, -0.12552303280928856, -0.13713571343976494, -0.2308000255558184, -0.1444747779378362, -0.11553161407815776, -0.14315409256246447, -0.15102785812568964, 0.21621155914731643, -0.04753386808513824, -0.09792766414004597, 0.016740390933934778, -0.1781273390741458, -0.27360861790082414, -0.22213396085789416, -0.12285669798756162, -0.1657596983519642]
+tmp [-1.720863288990784]
+img [0.6672126650810242]
+mov [0.5261145830154419]
+===== sotz02 ========
+rank 0
+audio [0.571763526392985, 1.2704513394896826, -2.733417983259694, 0.03400327590139313, -2.1614078957204024]
+txt [0.2955609614000941, -0.21731781294992605, -0.25353718365729, -0.15230119253767527, -0.31796214030155273]
+tmp [0.47675981114781185]
+img [0.34651121497154236, 0.41179972887039185, 0.41179347038269043, 0.6882237195968628, 0.49198800325393677]
+mov [0.5364488363265991, 0.4380417466163635, 0.4508124887943268, 0.49067020416259766, 0.4349208474159241]
+===== micklo ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== rumbita13 ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== b0t_mike ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== brine_tv ========
+rank 0
+audio [-1.75824721241766]
+txt None
+tmp None
+img [0.8404434323310852]
+mov [0.46771183609962463]
+===== izamosa ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== swervey ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== drefehc ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== ice_kodiak ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== iamricardus ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== purple506 ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== gorgasuarusrex ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== vujayy ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== icyphoenix_tv ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== walrusafb ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== gc_ttv ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== brndng ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== nick_thacker ========
+rank 0
+audio [2.525642247487604, 0.508863437859216]
+txt None
+tmp None
+img [0.7490149140357971, 0.5911153554916382]
+mov [0.47151023149490356, 0.4469873309135437]
+===== gr1m_gg ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== mello_kimochi ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== monstarytx ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== itsdadbod ========
+rank 0
+audio None
+txt None
+tmp None
+img None
+mov None
+===== iserac ========
+rank 0
+audio [-0.6174571660115139, 2.1512979165004813]
+txt None
+tmp None
+img [0.5934464335441589, 0.5879305601119995]
+mov [0.5120635628700256, 0.5195519328117371]
+===== br3ac ========
+rank 0
+audio [-0.2682775612675978]
+txt None
+tmp None
+img [0.43098926544189453]
+mov [0.5171838402748108]
+===== professorbeetus ========
+rank 0
+audio [-1.9170579719352245, 1.9765227791408808]
+txt None
+tmp None
+img [0.4966365396976471, 0.5811837315559387]
+mov [0.49504080414772034, 0.5297161936759949]
+Valid {'N': 194, 'audf': 91, 'txtf': 79, 'tmpf': 79, 'imgf': 98, 'movf': 98, 'N1': 77, 'audf1': 35, 'txtf1': 38, 'tmpf1': 38, 'imgf1': 40, 'movf1': 40, 'N0': 117, 'audf0': 56, 'txtf0': 41, 'tmpf0': 41, 'imgf0': 58, 'movf0': 58}
+Train {'N': 554, 'audf': 261, 'txtf': 203, 'tmpf': 203, 'imgf': 270, 'movf': 270, 'N1': 227, 'audf1': 115, 'txtf1': 93, 'tmpf1': 93, 'imgf1': 117, 'movf1': 117, 'N0': 327, 'audf0': 146, 'txtf0': 110, 'tmpf0': 110, 'imgf0': 153, 'movf0': 153}
+Average for label=1 0.8427043961594781
+Average for label=0 -1.0184989833519529
+Train audio pool {'N': 261, 'AUC': 0.8634306134603932, 'thresh': -0.6817842441282123, 'min': -3.3936125580072094, 'max': 2.7423898756570133, 'F1': 0.7859922178988328, 'precision': 0.7112676056338029, 'recall': 0.8782608695652174}
+Average for label=1 -0.061846834889620825
+Average for label=0 -0.14248433261057772
+Train txt pool {'N': 203, 'AUC': 0.743108504398827, 'thresh': -0.16608947623650544, 'min': -0.4895657723081472, 'max': 0.4334026047830674, 'F1': 0.7044534412955467, 'precision': 0.564935064935065, 'recall': 0.9354838709677419}
+Average for label=1 0.9414202043651638
+Average for label=0 -1.3408426689764266
+Train tmp pool {'N': 203, 'AUC': 0.9674486803519061, 'thresh': -0.2954408110093789, 'min': -4.054232580612306, 'max': 3.0797409295650824, 'F1': 0.8864864864864864, 'precision': 0.8913043478260869, 'recall': 0.8817204301075269}
+Average for label=1 0.6584900194194205
+Average for label=0 0.5699949571890444
+Train img pool {'N': 270, 'AUC': 0.6983967376124238, 'thresh': 0.5477824154273431, 'min': 0.15543192625045776, 'max': 0.9289611458778382, 'F1': 0.6537216828478966, 'precision': 0.5260416666666666, 'recall': 0.8632478632478633}
+Average for label=1 0.4940795645861654
+Average for label=0 0.47850822679382915
+Train mov pool {'N': 270, 'AUC': 0.6692922183118262, 'thresh': 0.4655804466743597, 'min': 0.3952138423919678, 'max': 0.5551002621650696, 'F1': 0.6424242424242425, 'precision': 0.49765258215962443, 'recall': 0.905982905982906}
+Average for label=1 1.2124318857365253
+Average for label=0 -1.1315529751931932
+Train audio raw {'N': 1727, 'AUC': 0.8544597431963175, 'thresh': -0.2987690557674192, 'min': -4.542941120094529, 'max': 3.5728124936748618, 'F1': 0.7808716707021791, 'precision': 0.7678571428571429, 'recall': 0.7943349753694581}
+Average for label=1 -0.061556759573172554
+Average for label=0 -0.14069951759258773
+Train txt raw {'N': 6358, 'AUC': 0.6072080678774624, 'thresh': -0.29869321121155673, 'min': -0.7228044187380628, 'max': 0.7620147596629177, 'F1': 0.6548468800368409, 'precision': 0.507132667617689, 'recall': 0.9239766081871345}
+Average for label=1 0.9414202043651638
+Average for label=0 -1.3408426689764266
+Train tmp pool {'N': 203, 'AUC': 0.9674486803519061, 'thresh': -0.2954408110093789, 'min': -4.054232580612306, 'max': 3.0797409295650824, 'F1': 0.8864864864864864, 'precision': 0.8913043478260869, 'recall': 0.8817204301075269}
+Average for label=1 0.6700952555566048
+Average for label=0 0.5604921127925746
+Train img raw {'N': 2521, 'AUC': 0.6940242809914633, 'thresh': 0.4810214691267224, 'min': 0.06099803373217583, 'max': 0.9639931917190552, 'F1': 0.6655917445985166, 'precision': 0.5311374163664436, 'recall': 0.8911917098445595}
+Average for label=1 0.49629430068795133
+Average for label=0 0.4791473397877141
+Train mov raw {'N': 2521, 'AUC': 0.6180143998114491, 'thresh': 0.4379992149994225, 'min': 0.1575462818145752, 'max': 0.587465226650238, 'F1': 0.6297273526824978, 'precision': 0.4766977363515313, 'recall': 0.927461139896373}
+Average for label=1 0.13614073673774962
+Average for label=0 -0.1916549160083447
+Valid audio pool {'N': 91, 'AUC': 0.5846938775510204, 'thresh': -0.6817842441282123, 'min': -2.870791181350123, 'max': 2.429912157409958, 'F1': 0.5263157894736842, 'precision': 0.4166666666666667, 'recall': 0.7142857142857143}
+Average for label=1 -0.09086270037673948
+Average for label=0 -0.10458591409639456
+Valid txt pool {'N': 79, 'AUC': 0.5507060333761232, 'thresh': -0.16608947623650544, 'min': -0.3469276157629463, 'max': 0.34301328627639555, 'F1': 0.6, 'precision': 0.4838709677419355, 'recall': 0.7894736842105263}
+Average for label=1 0.35595669230887195
+Average for label=0 -0.8361532828483967
+Valid tmp pool {'N': 79, 'AUC': 0.7843388960205393, 'thresh': -0.2954408110093789, 'min': -2.8764567681890583, 'max': 2.161827703997139, 'F1': 0.7088607594936709, 'precision': 0.6829268292682927, 'recall': 0.7368421052631579}
+Average for label=1 0.6274690479060915
+Average for label=0 0.5656885011254605
+Valid img pool {'N': 98, 'AUC': 0.6056034482758621, 'thresh': 0.5477824154273431, 'min': 0.21098895743489265, 'max': 0.8992606401443481, 'F1': 0.5714285714285714, 'precision': 0.46153846153846156, 'recall': 0.75}
+Average for label=1 0.49803987954827633
+Average for label=0 0.4785384293851229
+Valid mov pool {'N': 98, 'AUC': 0.7081896551724138, 'thresh': 0.4655804466743597, 'min': 0.4093233311877531, 'max': 0.556137204170227, 'F1': 0.603448275862069, 'precision': 0.4605263157894737, 'recall': 0.875}
+Average for label=1 0.2423571478805374
+Average for label=0 -0.12555629142869687
+Valid audio raw {'N': 613, 'AUC': 0.5571715758141188, 'thresh': -0.2987690557674192, 'min': -4.091461252949302, 'max': 3.2743982330509365, 'F1': 0.5036231884057971, 'precision': 0.4512987012987013, 'recall': 0.569672131147541}
+Average for label=1 -0.08981550678929225
+Average for label=0 -0.10419229437149692
+Valid txt raw {'N': 2421, 'AUC': 0.5248712770283777, 'thresh': -0.29869321121155673, 'min': -0.5293597009405894, 'max': 0.6886035161531554, 'F1': 0.6034745504419384, 'precision': 0.45184847101780007, 'recall': 0.908256880733945}
+Average for label=1 0.35595669230887195
+Average for label=0 -0.8361532828483967
+Valid tmp pool {'N': 79, 'AUC': 0.7843388960205393, 'thresh': -0.2954408110093789, 'min': -2.8764567681890583, 'max': 2.161827703997139, 'F1': 0.7088607594936709, 'precision': 0.6829268292682927, 'recall': 0.7368421052631579}
+Average for label=1 0.6095297979832353
+Average for label=0 0.5362533997126224
+Valid img raw {'N': 809, 'AUC': 0.6136085683578549, 'thresh': 0.4810214691267224, 'min': 0.08757272362709045, 'max': 0.9530763626098633, 'F1': 0.589247311827957, 'precision': 0.48324514991181655, 'recall': 0.7548209366391184}
+Average for label=1 0.4940300659371473
+Average for label=0 0.47572669767745407
+Valid mov raw {'N': 809, 'AUC': 0.6297360066214531, 'thresh': 0.4379992149994225, 'min': 0.21872219443321228, 'max': 0.5737675428390503, 'F1': 0.6248847926267281, 'precision': 0.4695290858725762, 'recall': 0.9338842975206612}
